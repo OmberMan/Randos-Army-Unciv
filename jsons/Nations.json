@@ -1,0 +1,96 @@
+[
+  {
+    "name": "Rando's Army",
+    "leaderName": "Rando",
+    "adjective": [
+      "Rando's"
+    ],
+    "startBias": [
+      "Avoid Jungle",
+      "Avoid Forest"
+    ],
+    "preferredVictoryType": "Domination",
+    "startIntroPart1": "Oh ye who remakes the world, your loyal subjects greet you, King Pachacuti Sapa Inca, ruler of Tawantinsuyu and the Inca people! From the beginnings in the small state of Cusco, the Incans displayed their potential for greatness, marching to war against their many enemies, crushing their armies into dust and carving for themselves a mighty empire stretching from Ecuador to Chile. Indeed, they build the greatest empire ever seen in all pre-Columbian Americas. More than mere soldiers, your people were great builders and artists as well, and the remnants of their works still awe and inspire the world today.",
+    "startIntroPart2": "Oh King Pachacuti, truly are you called 'Earth Shaker'! Will you once again call upon the ground itself to a fight at your side? Your armies await your signal. Will you restore the glory of your empire? Can you build a civilization that will stand the test of time?",
+    "declaringWar": "I'm s-sorry it's come to this...",
+    "attacked": "P-Please... more deaths won't help anyone.",
+    "defeated": "You truly are the master...",
+    "introduction": "...",
+    "neutralHello": "...",
+    "neutralLetsHearIt": [
+      "..."
+    ],
+    "neutralNo": [
+      ". . ."
+    ],
+    "neutralYes": [
+      "..."
+    ],
+    "hateHello": "...",
+    "hateLetsHearIt": [
+      "..."
+    ],
+    "hateNo": [
+      "..."
+    ],
+    "hateYes": [
+      "........."
+    ],
+    "afterPeace": "...",
+    "tradeRequest": "...",
+    "outerColor": [
+      22,
+      15,
+      140
+    ],
+    "innerColor": [
+      180,
+      35,
+      5
+    ],
+    "uniqueName": "Goodbye Baby",
+    "uniques": "[+50]% Production when constructing [Land] units [in all non-occupied cities], [-33]% Culture cost of natural border growth [in all cities], [+1 Production] from [Fort] tiles [in all cities], City-State territory always counts as friendly territory, [-85]% growth [in all non-occupied cities], When defeating a [Barbarian] unit, earn [2] Gold and recruit it, [1] Unit Supply per [2] population [in all non-occupied cities]",
+    "cities": [
+      "Rando's Base",
+      "Dojo Town",
+      "Garbage Island",
+      "Downtown Olathe",
+      "Nowhere",
+      "Nobody",
+      "Failiure",
+      "Wallyworld ",
+      "Bee's Swamp",
+      "Garbage Island",
+      "Kim Sex Machine Ultra <3<3D~lux Room",
+      "Desert Town",
+      "\"Snow\"zone",
+      "Construction Area",
+      "Resort Island",
+      "Devil's Bathouse Town",
+      "Um Baga",
+      "Wheat Place",
+      "Bagada",
+      "Gugar",
+      "Grug",
+      "Ragag",
+      "Zuur",
+      "Dada",
+      "Wadar",
+      "Ulaga",
+      "Gagor",
+      "Harana",
+      "Alotro",
+      "Wololo",
+      "Oggy",
+      "Kara",
+      "Polgo",
+      "Kagag",
+      "Lah",
+      "Tagina",
+      "Ruma",
+      "Radar",
+      "Gamuklag",
+      "Zada"
+    ]
+  }
+]

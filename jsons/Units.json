@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Rando",
+    "unitType": "Civilian",
+    "uniqueTo": "Rando's Army",
+    "replaces": "Great General",
+    "uniques": [
+      "Bonus for units in 3 tile radius 25%",
+      "Heal adjacent units for an additional 10 HP per turn",
+      "Damage is ignored when determining unit Strength",
+      "[1] Sight",
+      "[+20]% Strength<after discovering [Chemistry]>",
+      "Unable to capture cities",
+      "Great Person - [War]",
+      "Unbuildable"
+    ],
+    "movement": 2,
+    "strength": 30
+  }
+]
