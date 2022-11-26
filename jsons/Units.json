@@ -6,7 +6,22 @@
     "replaces": "Great General",
     "uniques": [ "Bonus for units in 3 tile radius 25%", "Heal adjacent units for an additional 10 HP per turn", "Damage is ignored when determining unit Strength", "[1] Sight", "[+33]% Strength<after discovering [Chemistry]>",
       "Unable to capture cities", "Great Person - [War]", "Unbuildable", "Limited to [1] per Civilization" ],
-    "movement": 2,
-    "strength": 30
+    "movement": "2",
+    "strength": "30"
   }
-]
+ {
+  "name": "Rando Rig",
+  "unitType": "Armor",
+  "uniqueTo": "Rando's Army",
+  "replaces": "Landship",
+  "movement": "5",
+  "strength": "45",
+  "production ": "325",
+  "requiredTech": "Combustion ",
+  "requiredResource": "Oil",
+  "upgradesTo": "Modern Armor",
+  "attackSound": "shot",
+  "promotions": [ "Shock I", "Medic I" ],
+   "uniques": [ "Can carry [1] [Military] units", "No defensive terrain bonus", "Transfer Movement to [Civilian]", "[-33]% Strength <vs [Armor] units>", "Can move after attacking" ]
+ }
+] 
