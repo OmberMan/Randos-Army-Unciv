@@ -22,7 +22,7 @@
   "requiredResource": "Oil",
   "upgradesTo": "Modern Armor",
   "attackSound": "shot",
-  "promotions": ["Shock I", "Medic I"],
+  "promotions": ["Shock I", "Medic"],
   "uniques": ["No defensive terrain bonus", "Transfer Movement to [Civilian]", "[-33]% Strength <vs [Armor] units>", "Can move after attacking"]
  }
 ] 
