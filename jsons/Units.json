@@ -4,11 +4,10 @@
     "unitType": "Civilian",
     "uniqueTo": "Rando's Army",
     "replaces": "Great General",
-    "uniques": ["Bonus for units in 3 tile radius 25%", "Heal adjacent units for an additional 10 HP per turn", "Damage is ignored when determining unit Strength", "[1] Sight", "[+33]% Strength<after discovering [Chemistry]>",
+    "uniques": ["[+25]% Strength bonus for [Millitary] units within [2] tiles", "[-10]% Strength for enemy [Millitary] units in adjacent [All] tiles", "Damage is ignored when determining unit Strength", "[1] Sight", "[+33]% Strength<after discovering [Chemistry]>",
       "Unable to capture cities", "Great Person - [War]", "Unbuildable", "Limited to [1] per Civilization"],
     "movement": 2,
     "strength": 30,
-    "production": 44444444444444
   }
  {
   "name": "Rando Rig",
@@ -17,7 +16,7 @@
   "replaces": "Landship",
   "movement": 5,
   "strength": 45,
-  "production": 325,
+  "cost": 325,
   "requiredTech": "Combustion",
   "requiredResource": "Oil",
   "upgradesTo": "Modern Armor",
