@@ -5,12 +5,13 @@
         "adjective": ["Rando's"],
         "startBias": ["Avoid Jungle"],
         "preferredVictoryType": "Domination",
+        "style": "Barbarian",
         
         "startIntroPart1": "Hail, great Rando. Since you were a child your life had been fraught with hardships and unjustice, having grown up a underpriviliged orphan, abandoned twice by the people you looked up to, suffering gruesome facial mutilation at the end of another child's buzzsaw, and finally, rounding off your childhood at the time of the white flash, an event that caused the disappearence of all women, the collapse of society, and the slow, miserable end of humanity.",
         "startIntroPart2": "Rando! Although at the cost of much death and strife, you've restored order to Olathe and become it's strongest, unchallenged warlord. But Rando, all will be for naught if humanity slowly kills itself and the girl is never found. Can you justify your acts by saving the world? Can you build a civilization that can stand the rest of time?",
         
         "declaringWar": "I'm s-sorry it's come to this...",
-        "attacked": "P-Please... more deaths won't help anyone.",
+        "attacked": "P-Please... more violence won't help anyone.",
         "defeated": "You truly are the master...",
         "introduction": ". . .",
         
