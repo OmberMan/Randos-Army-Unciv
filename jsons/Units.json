@@ -11,7 +11,7 @@
   }
  {
   "name": "Rando Rig",
-  "unitType": "Armor",
+  "unitType": "Armored",
   "uniqueTo": "Rando's Army",
   "replaces": "Landship",
   "movement": 5,
