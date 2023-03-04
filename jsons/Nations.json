@@ -3,26 +3,26 @@
         "name": "Rando's Army",
         "leaderName": "Rando",
         "adjective": ["Rando's"],
-        "startBias": ["Avoid Jungle"],
+        "startBias": ["Avoid Jungle", "Avoid Snow"],
         "preferredVictoryType": "Domination",
-        "style": "Barbarian",
+        "style": "Barbarians",
         
         "startIntroPart1": "Hail, great Rando. Since you were a child your life had been fraught with hardships and unjustice, having grown up a underpriviliged orphan, abandoned twice by the people you looked up to, suffering gruesome facial mutilation at the end of another child's buzzsaw, and finally, rounding off your childhood at the time of the white flash, an event that caused the disappearence of all women, the collapse of society, and the slow, miserable end of humanity.",
         "startIntroPart2": "Rando! Although at the cost of much death and strife, you've restored order to Olathe and become it's strongest, unchallenged warlord. But Rando, all will be for naught if humanity slowly kills itself and the girl is never found. Can you justify your acts by saving the world? Can you build a civilization that can stand the rest of time?",
         
-        "declaringWar": "I'm s-sorry it's come to this...",
+        "declaringWar": "I'm sorry it's come t-to this...",
         "attacked": "P-Please... more violence won't help anyone.",
         "defeated": "You truly are the master...",
-        "introduction": ". . .",
+        "introduction": "...",
         
         "neutralHello": "...",
-        "hateHello": "...",
+        "hateHello": ". . .",
         "tradeRequest": "....?",
       
-        "outerColor": [22,15,140],
-        "innerColor": [180,35,5],
+        "outerColor": [20,15,140],
+        "innerColor": [180,30,5],
         "uniqueName": "Goodbye Baby",
-        "uniques": ["[+100]% Production when constructing [Land] units [in all non-occupied cities]", "[+1 Production] from [Fort] tiles [in all cities]", "City-State territory always counts as friendly territory", "[-85]% growth [in all non-occupied cities]", "When defeating a [Barbarian] unit, earn [1] Gold and recruit it", "[2] Unit Supply per [1] population [in all cities]", "[-50]% maintenance costs <for [Land] units> <when at war>"],
-        "cities": ["Rando's Base", "Dojo Town", "Garbage Island", "Downtown Olathe", "Bee's Swamp", "The Construction Zone", "Nobody", "Failiure", "Wallyworld ", "Bee's Swamp", "Garbage Island", "Kim Sex Machine Ultra <3<3D~lux Room", "Desert Town", "\"Snow\"zone", "Construction Area", "Resort Island", "Devil's Bathouse Town", "Um Baga", "AAAAAAAAAAAAAAAAAAAAAAAAAA", "Oggy", "Lah"]
+        "uniques": ["[+100]% Production when constructing [Land] units [in all non-occupied cities]", "[+1 Production] from [Fort] tiles [in all cities]", "City-State territory always counts as friendly territory", "[-85]% growth [in all non-occupied cities]", "When defeating a [Barbarian] unit, earn [5] Gold and recruit it <with [33]% chance>", "[2] Unit Supply per [1] population [in all cities]", "[-50]% maintenance costs <for [Land] units> <when at war>", "[+1] population in a random city <upon conquering a city>", "[2] free [Melee] units appear <upon gaining a [Great General] unit>", "[2] free [Melee] units appear <upon entering a Golden Age>", "[+1 Production, -1 Happiness] [in all cities with a garrison]", "Gain a free [Barracks] [in all cities connected to capital]"],
+        "cities": ["Rando's Base", "Dojo Town", "Garbage Island", "Downtown Olathe", "Bee's Swamp", "The Construction Zone", "Vegaville", "Derelict Neighborhood", "Nowhere", "Peaceful Village", "Hawkwood", "Blood Mountain", "Zone Three Hub" "The Last Autumn", "Failiure", "Wallyworld ", "Bee's Swamp", "Garbage Island", "Kim Sex Machine Ultra <3<3D~lux Room", "Desert Town", "\"Snow\"zone", "Construction Area", "Resort Island", "Devil's Bathouse Town", "Um Baga", "AAAAAAAAAAAAAAAAAAAAAAAAAA", "Oggy", "Lah"]
     }
 ]
