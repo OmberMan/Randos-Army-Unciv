@@ -36,4 +36,16 @@
   "promotions": ["Drill I"],
   "uniques": ["Unit will heal every turn, even if it performs an action", "Invisible to non-adjacent units", "May capture killed [Land] units <with [40]% chance>", "May withdraw before melee ([40]%)", "Free [Peter] appears <upon being defeated> <with [40]% chance>", "[+80]% Strength <when below [16] HP> <when attacking>", "Damage is ignored when determining unit Strength", "No movement cost to pillage", "Ignores Zone of Control"]
  }
+{
+  "name": "Jerseyhead",
+  "unitType": "Sword",
+  "uniqueTo": "Barbarians",
+  "movement": 2,
+  "strength": 6,
+  "cost": 8,
+  "requiredTech": "calendar",
+  "attackSound": "tear",
+  "promotions": ["Enfranchised"],
+  "uniques": ["[+8] XP gained from combat", "Can only attack [Land] units", "Can move after attacking", "Heals [64] damage if it kills a unit"]
+ }
 ] 
