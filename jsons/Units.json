@@ -41,11 +41,11 @@
   "unitType": "Sword",
   "uniqueTo": "Barbarians",
   "movement": 2,
-  "strength": 6,
+  "strength": 8,
   "cost": 8,
   "requiredTech": "calendar",
   "attackSound": "tear",
   "promotions": ["Enfranchised"],
-  "uniques": ["[+8] XP gained from combat", "Can only attack [Land] units", "Can move after attacking", "Heals [64] damage if it kills a unit"]
+  "uniques": ["[+88]% XP gained from combat", "Can only attack [Land] units", "Can move after attacking", "Heals [88] damage if it kills a unit", "May capture killed [Land] units"]
  }
 ] 
