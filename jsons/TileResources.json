@@ -7,18 +7,7 @@
 		
 		"civilopediaText": [
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Tubers",
-				"imageSize": 64
-			},
-			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Agri Farm Tubers",
-				"imageSize": 64
-			},
-			{
-				"Separator": true
-			},
-			{
-				"text": "Oh dang that's Larry's mother-in-law!"
+				"text": "Oh dang that's Larry's mother-in-law"
 			}
 		]
 }
