@@ -55,7 +55,7 @@
   "movement": 2,
   "strength": 8,
   "cost": 8,
-  "requiredTech": "calendar",
+  "requiredTech": "Calendar",
   "attackSound": "sameoldmeat",
   "promotions": ["Enfranchised"],
   "uniques": ["[+16]% Strength <when attacking>"]
