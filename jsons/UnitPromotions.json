@@ -5,6 +5,10 @@
 "Unit will heal every turn, even if it performs an action", "Invisible to non-adjacent units"],
 },
 {
+		"name": "Garbage Insanity",
+		"uniques": ["Unit will heal every turn, even if it performs an action", "[+40]% Strength <vs [Melee] units>", "[+40]% Strength <with [40]% chance> <when attacking>", "[+20] HP when healing", "No Sight", "[-33]% Strength for enemy [Land] units in adjacent [Land] tiles", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "No movement cost to pillage", "Ignores Zone of Control"],
+}
+{
 		"name": "Enfranchised",
 		"uniques": ["Uncapturable", "Heals [40] damage if it kills a unit", "Can move after attacking",
 "This Unit gains the [1st Fold] promotion <upon defeating a [All] unit>", "[+88]% XP gained from combat", "May capture killed [Land] units"],
