@@ -22,7 +22,7 @@
         "outerColor": [20,15,140],
         "innerColor": [180,30,5],
         "uniqueName": "Goodbye Baby",
-        "uniques": ["[+100]% Production when constructing [Land] units [in all non-occupied cities]", "[+1 Production] from [Fort] tiles [in all cities]", "City-State territory always counts as friendly territory", "[-85]% growth [in all non-occupied cities]", "When defeating a [Barbarian] unit, earn [5] Gold and recruit it <with [33]% chance>", "[2] Unit Supply per [1] population [in all cities]", "[-50]% maintenance costs <for [Land] units> <when at war>", "[+1] population in a random city <upon conquering a city>", "[2] free [Melee] units appear <upon gaining a [Great General] unit>", "[2] free [Melee] units appear <upon entering a Golden Age>", "[+1 Production, -1 Happiness] [in all cities with a garrison]", "Gain a free [Barracks] [in all cities connected to capital]"],
+        "uniques": ["[+100]% Production when constructing [Land] units [in all non-occupied cities]", "[+2 Production] from [Fort] tiles [in all cities]", "City-State territory always counts as friendly territory", "[-80]% growth [in all non-occupied cities]", "When defeating a [Barbarian] unit, earn [5] Gold and recruit it <with [33]% chance>", "[2] Unit Supply per [1] population [in all cities]", "[-50]% maintenance costs <for [Land] units>", "[-75]% maintenance costs <for [Land] units> <when at war>", "[+1] population in a random city <upon conquering a city>", "[2] free [Melee] units appear <upon gaining a [Great General] unit>", "[3] free [Melee] units appear <upon entering a Golden Age>", "[+2 Production, -1 Happiness] [in all cities with a garrison]", "Gain a free [Barracks] [in all cities connected to capital]"],
         "cities": ["Rando's Base", "Dojo Town", "Garbage Island", "Downtown Olathe", "Bee's Swamp", "The Construction Zone", "Vegaville", "Derelict Neighborhood", "Nowhere", "Peaceful Village", "Hawkwood", "Blood Mountain", "Zone Three Hub", "The Last Autumn", "Failiure", "Wallyworld ", "Bee's Swamp", "Garbage Island", "Kim Sex Machine Ultra <3<3D~lux Room", "Desert Town", "\"Snow\"zone", "Construction Area", "Resort Island", "Devil's Bathouse Town", "Um Baga", "AAAAAAAAAAAAAAAAAAAAAAAAAA", "Oggy", "Lah"]
     },
 	{
@@ -30,11 +30,11 @@
 		"adjective": ["Trash"],
 		"cityStateType": "Garbage Island-type",
   "style": "Barbarians",
-		"declaringWar": "You just won't listen to reason...",
-		"attacked": "Do you Trash?",
+		"declaringWar": "Do you Trash?",
+		"attacked": "You just won't listen to reason...",
 		"defeated": "The Communion of Cellophane prepared us for this. We all end up in the trash bag eventually. Don't you want to practice for it?",
 		"outerColor": [0, 0, 0],
-		"innerColor": [185,23,178],
-		"cities": ["Garbage Island", "You think there's something better?"]
+		"innerColor": [186, 255, 128],
+		"cities": ["Garbage Island", "You think there's really something better?"]
 	},
 ]
