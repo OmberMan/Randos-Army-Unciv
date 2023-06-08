@@ -1,1 +1,45 @@
-
+[
+{
+		"name": "Garbage Insanity",
+		"uniques": ["No movement cost to pillage", "[-50]% XP gained from combat", "[-100]% maintenance costs",
+"Unit will heal every turn, even if it performs an action", "Invisible to non-adjacent units"],
+},
+{
+		"name": "Enfranchised",
+		"uniques": ["Uncapturable", "Heals [40] damage if it kills a unit", "Can move after attacking",
+"This Unit gains the [1st Fold] promotion <upon defeating a [All] unit>", "[+88]% XP gained from combat"],
+},
+{
+		"name": "1st Fold",
+		"uniques": ["No movement cost to pillage",
+"This Unit gains the [2nd Fold] promotion <upon defeating a [All] unit>", "[+16]% Strength"],
+},
+{
+		"name": "2nd Fold",
+		"uniques": ["This Unit gains the [3rd Fold] promotion <upon defeating a [All] unit>", "[+24]% Strength", "[+1] Movement"],
+},
+{
+		"name": "3rd Fold",
+		"uniques": ["This Unit gains the [4th Fold] promotion <upon defeating a [All] unit>", "[+40]% Strength", "[+1] additional attacks per turn"],
+},
+{
+		"name": "4th Fold",
+		"uniques": ["Destroys tile improvements when attacking", "This Unit gains the [5th Fold] promotion <upon defeating a [All] unit>", "[+64]% Strength", "[+1] Movement"],
+},
+{
+		"name": "5th Fold",
+		"uniques": ["[+1] additional attacks per turn", "This Unit gains the [6th Fold] promotion <upon defeating a [All] unit>", "[+104]% Strength", "[+8]% Strength bonus for [Enfranchised] units within [1] tiles"],
+},
+{
+		"name": "6th Fold",
+		"uniques": ["[+1] movement", "This Unit gains the [7th Fold] promotion <upon defeating a [All] unit>", "[+168]% Strength", "[+8]% Strength bonus for [Enfranchised] units within [2] tiles"],
+},
+{
+		"name": "7th Fold",
+		"uniques": ["[+1] additional attacks per turn", "This Unit gains the [8th Fold] promotion <upon defeating a [All] unit>", "[+272]% Strength", "[+16]% Strength bonus for [Enfranchised] units within [3] tiles"],
+},
+{
+		"name": "8th Fold",
+		"uniques": ["[+4] additional attacks per turn", "[+440]% Strength", "[+16]% Strength bonus for [Enfranchised] units within [4] tiles", "[-24]% Strength for enemy [Land] units in adjacent [Land] tiles"],
+}
+]
