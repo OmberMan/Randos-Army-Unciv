@@ -44,8 +44,8 @@
   "strength": 19,
   "cost": 1,
   "requiredTech": "Bronze Working",
-  "attackSound": "joy",
-  "promotions": ["Euphoric"],
+  "attackSound": "notfair",
+  "promotions": ["Overjoyed"],
   "uniques": ["[+40]% Strength <with [40]% chance> <when attacking>", "[+1] additional attacks per turn", "May withdraw before melee ([20]%)", "Ignores terrain cost"]
  },
 {
@@ -56,7 +56,7 @@
   "strength": 8,
   "cost": 8,
   "requiredTech": "calendar",
-  "attackSound": "tear",
+  "attackSound": "sameoldmeat",
   "promotions": ["Enfranchised"],
   "uniques": ["[+16]% Strength <when attacking>"]
  }
