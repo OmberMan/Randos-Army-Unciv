@@ -7,7 +7,7 @@
 {
 		"name": "Enfranchised",
 		"uniques": ["Uncapturable", "Heals [40] damage if it kills a unit", "Can move after attacking",
-"This Unit gains the [1st Fold] promotion <upon defeating a [All] unit>", "[+88]% XP gained from combat"],
+"This Unit gains the [1st Fold] promotion <upon defeating a [All] unit>", "[+88]% XP gained from combat", "May capture killed [Land] units"],
 },
 {
 		"name": "1st Fold",
