@@ -29,6 +29,7 @@
 		"name": "Garbage Island",
 		"adjective": ["Trash"],
 		"cityStateType": "Garbage Island-type",
+  "uniques": ["[-100]% Unhappiness from [Unemployed] [non-occupied cities]", "[+44]% Food is carried over after population increases [in all non-occupied cities]", "[-80]% [Production] [in all non-occupied cities]"],
   "style": "Barbarians",
 		"declaringWar": "Do you Trash?",
 		"attacked": "You just won't listen to reason...",
