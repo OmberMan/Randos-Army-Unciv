@@ -29,31 +29,31 @@
   "unitType": "Sword",
   "uniqueTo": "Barbarians",
   "movement": 3,
-  "strength": 10,
+  "strength": 14,
   "cost": 55,
   "requiredTech": "Bronze Working",
   "attackSound": "joy",
   "promotions": ["Drill I"],
-  "uniques": ["Unit will heal every turn, even if it performs an action", "Invisible to non-adjacent units", "May capture killed [Land] units <with [40]% chance>", "May withdraw before melee ([40]%)", "Free [Peter] appears <upon being defeated> <with [40]% chance>", "[+80]% Strength <when below [16] HP>", "Damage is ignored when determining unit Strength", "No movement cost to pillage", "Ignores Zone of Control", "[-90]% XP gained from combat"]
+  "uniques": ["Unit will heal every turn, even if it performs an action", "Invisible to non-adjacent units", "May capture killed [Land] units <with [40]% chance>", "May withdraw before melee ([40]%)", "Free [Peter] appears <upon being defeated> <with [40]% chance>", "[+80]% Strength <when below [16] HP>", "Damage is ignored when determining unit Strength", "No movement cost to pillage", "Ignores Zone of Control", "[-80]% XP gained from combat"]
  },
 {
   "name": "Peter",
   "unitType": "Sword",
   "uniqueTo": "Barbarians",
-  "movement": 3,
-  "strength": 19,
+  "movement": 4,
+  "strength": 24,
   "cost": 1,
   "requiredTech": "Bronze Working",
   "attackSound": "notfair",
   "promotions": ["Overjoyed"],
-  "uniques": ["[+40]% Strength <with [40]% chance> <when attacking>", "[+1] additional attacks per turn", "May withdraw before melee ([20]%)", "Ignores terrain cost"]
+  "uniques": ["Unbuildable","[+40]% Strength <with [40]% chance> <when attacking>", "[+1] additional attacks per turn", "May withdraw before melee ([20]%)", "Ignores terrain cost"]
  },
 {
   "name": "Jerseyhead",
   "unitType": "Sword",
   "uniqueTo": "Barbarians",
   "movement": 2,
-  "strength": 8,
+  "strength": 9,
   "cost": 8,
   "requiredTech": "Calendar",
   "attackSound": "sameoldmeat",
