@@ -71,6 +71,6 @@
   "requiredTech": "Calendar",
   "attackSound": "sameoldmeat",
   "promotions": ["Enfranchised"],
-  "uniques": ["[-24]% Strength <when defending>"]
+  "uniques": ["[-24]% Strength <when defending>", "This Unit gains the [1st Fold] promotion <upon defeating a [Military] unit>"]
  }
 ] 
