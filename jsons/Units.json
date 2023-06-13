@@ -50,7 +50,7 @@
   "uniques": ["Unbuildable","[+40]% Strength <with [40]% chance> <when attacking>", "[+1] additional attacks per turn", "May withdraw before melee ([20]%)", "Ignores terrain cost"]
  },
 {
-  "name": "Arty",
+  "name": "Cooper",
   "unitType": "Mounted",
   "uniqueTo": "Barbarians",
   "movement": 1,
@@ -72,5 +72,18 @@
   "attackSound": "sameoldmeat",
   "promotions": ["Enfranchised"],
   "uniques": ["[-24]% Strength <when defending>", "This Unit gains the [1st Fold] promotion <upon defeating a [Military] unit>"]
- }
+ },
+{
+  "name": "No one in particular",
+  "unitType": "Sword",
+  "uniqueTo": "Barbarians",
+  "movement": 2,
+  "strength": 10,
+  "cost": 16,
+  "requiredTech": "Combustion",
+  "attackSound": "sameoldmeat",
+  "promotions": ["Enfranchised", "1st Fold", "2nd Fold", "3rd Fold", "4th Fold", "5th Fold", "6th Fold"],
+  "uniques": ["[-24]% Strength <when defending>",
+]
+}
 ] 
