@@ -1,0 +1,125 @@
+
+game.png
+size: 1024, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Garbage Island
+  rotate: false
+  xy: 570, 56
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+NationIcons/Rando's Army
+  rotate: false
+  xy: 462, 20
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Cooper
+  rotate: false
+  xy: 76, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Doctor
+  rotate: false
+  xy: 4, 76
+  size: 126, 44
+  orig: 126, 44
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Jerseyhead
+  rotate: false
+  xy: 714, 88
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Joy Boy
+  rotate: false
+  xy: 754, 88
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/No one in particular
+  rotate: false
+  xy: 794, 88
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Peter
+  rotate: false
+  xy: 138, 20
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rando
+  rotate: false
+  xy: 834, 88
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rando Rig
+  rotate: false
+  xy: 874, 88
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Cooper
+  rotate: false
+  xy: 4, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitIcons/Joy Boy
+  rotate: false
+  xy: 4, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitIcons/Peter
+  rotate: false
+  xy: 4, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitIcons/Jerseyhead
+  rotate: false
+  xy: 642, 56
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitIcons/No on in particular
+  rotate: false
+  xy: 642, 56
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitIcons/Rando
+  rotate: false
+  xy: 246, 20
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rando Rig
+  rotate: false
+  xy: 354, 20
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
