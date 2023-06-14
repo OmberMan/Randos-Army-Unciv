@@ -35,7 +35,7 @@
   "requiredTech": "Bronze Working",
   "attackSound": "joy",
   "promotions": ["Drill I"],
-  "uniques": ["Unit will heal every turn, even if it performs an action", "Invisible to non-adjacent units", "May capture killed [Land] units <with [40]% chance>", "May withdraw before melee ([40]%)", "Free [Peter] appears <upon being defeated> <with [20]% chance>", "Free [Arty] appears <upon being defeated> <with [20]% chance>", "[+80]% Strength <when below [16] HP>", "Damage is ignored when determining unit Strength", "No movement cost to pillage", "Ignores Zone of Control", "[-80]% XP gained from combat", "Uncapturable"]
+  "uniques": ["Unit will heal every turn, even if it performs an action", "Invisible to non-adjacent units", "May capture killed [Land] units <with [40]% chance>", "May withdraw before melee ([40]%)", "Free [Peter] appears <upon being defeated> <with [20]% chance>", "Free [Cooper] appears <upon being defeated> <with [20]% chance>", "[+80]% Strength <when below [16] HP>", "Damage is ignored when determining unit Strength", "No movement cost to pillage", "Ignores Zone of Control", "[-80]% XP gained from combat", "Uncapturable"]
  },
 {
   "name": "Peter",
