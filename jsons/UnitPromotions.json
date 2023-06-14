@@ -8,35 +8,6 @@
 		"name": "Overjoyed",
 		"uniques": ["Unit will heal every turn, even if it performs an action", "[+40]% Strength <vs [Melee] units>", "[+20] HP when healing", "No Sight", "[-33]% Strength for enemy [Land] units in adjacent [Land] tiles", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "[-99]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable"],
 },
-        { 
-                 "name": "Shock I", 
-                 "uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles>"], 
-                 "unitTypes": [ 
-                         "Infantry", 
-                         "Stealth Infantry", 
-                         "Rover", 
-                         "Hover", 
-                         "Armored", 
-                         "Close Range Mech" 
-                 ], 
-                 "row": 3, 
-         "column": 1 
-         }, 
-         { 
-                 "name": "Shock II", 
-                 "prerequisites": ["Shock I"], 
-                 "uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles>"], 
-                 "unitTypes": [ 
-                         "Infantry", 
-                         "Stealth Infantry", 
-                         "Rover", 
-                         "Hover", 
-                         "Armored", 
-                         "Close Range Mech" 
-                 ], 
-                 "row": 3, 
-         "column": 2 
-         },
 {
 		"name": "Enfranchised",
 		"uniques": ["Uncapturable", "Heals [40] damage if it kills a unit", "Can move after attacking", "[+88]% XP gained from combat", "May capture killed [Land] units"],
