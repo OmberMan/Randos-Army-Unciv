@@ -12,7 +12,7 @@
 		"name": "Enfranchised",
 		"uniques": ["Uncapturable", "Heals [40] damage if it kills a unit", "Can move after attacking", "[+88]% XP gained from combat", "May capture killed [Land] units"],
 "unitTypes": [ 
-              "Sword"],
+              "Infinitized"],
 },
 {
 		"name": "1st Fold",
@@ -20,55 +20,55 @@
 		"uniques": ["No movement cost to pillage",
 "This Unit gains the [2nd Fold] promotion <upon defeating a [Military] unit>", "[+16]% Strength"],
 "unitTypes": [ 
-              "Sword"],
+              "Infinitized"],
 },
 {
 		"name": "2nd Fold",
   "prerequisites": ["1st Fold"], 
 		"uniques": ["This Unit gains the [3rd Fold] promotion <upon defeating a [Military] unit>", "[+24]% Strength", "[+1] Movement"],
 "unitTypes": [ 
-              "Sword"],
+              "Infinitized"],
 },
 {
 		"name": "3rd Fold",
   "prerequisites": ["2nd Fold"],
 		"uniques": ["This Unit gains the [4th Fold] promotion <upon defeating a [Military] unit>", "[+40]% Strength", "[+1] additional attacks per turn"],
 "unitTypes": [ 
-              "Sword"],
+              "Infinitized"],
 },
 {
 		"name": "4th Fold",
   "prerequisites": ["3rd Fold"],
 		"uniques": ["Destroys tile improvements when attacking", "This Unit gains the [5th Fold] promotion <upon defeating a [Military] unit>", "[+64]% Strength", "[+1] Movements"],
 "unitTypes": [ 
-              "Sword"],
+              "Infinitized"],
 },
 {
 		"name": "5th Fold",
   "prerequisites": ["4th Fold"],
 		"uniques": ["[+1] additional attacks per turn", "This Unit gains the [6th Fold] promotion <upon defeating a [Military] unit>", "[+104]% Strength", "[+8]% Strength bonus for [Enfranchised] units within [1] tiles"],
 "unitTypes": [ 
-              "Sword"],
+              "Infinitized"],
 },
 {
 		"name": "6th Fold",
   "prerequisites": ["5th Fold"],
 		"uniques": ["[+1] movement", "This Unit gains the [7th Fold] promotion <upon defeating a [Military] unit>", "[+168]% Strength", "[+8]% Strength bonus for [Enfranchised] units within [2] tiles"],
 "unitTypes": [ 
-              "Sword"],
+              "Infinitized"],
 },
 {
 		"name": "7th Fold",
   "prerequisites": ["6th Fold"],
 		"uniques": ["[+1] additional attacks per turn", "This Unit gains the [8th Fold] promotion <upon defeating a [Military] unit>", "[+272]% Strength", "[+16]% Strength bonus for [Enfranchised] units within [3] tiles"],
 "unitTypes": [ 
-              "Sword"],
+              "Infinitized"],
 },
 {
 		"name": "8th Fold",
   "prerequisites": ["7th Fold"],
 		"uniques": ["[+4] additional attacks per turn", "[+440]% Strength", "[+16]% Strength bonus for [Enfranchised] units within [4] tiles", "[-24]% Strength for enemy [Land] units in adjacent [Land] tiles"],
 "unitTypes": [ 
-              "Sword"],
+              "Infinitized"],
 }
 ]
