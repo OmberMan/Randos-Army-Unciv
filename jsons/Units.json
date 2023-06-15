@@ -28,7 +28,7 @@
  {
   "name": "Joy Boy",
   "unitType": "Sword",
-  "uniqueTo": "Rando's Army",
+  "uniqueTo": "Barbarians",
   "movement": 3,
   "strength": 14,
   "cost": 40,
@@ -64,7 +64,7 @@
 {
   "name": "Jerseyhead",
   "unitType": "Infinitized",
-  "uniqueTo": "Rando's Army",
+  "uniqueTo": "Barbarians",
   "movement": 2,
   "strength": 10,
   "cost": 16,
@@ -76,11 +76,11 @@
 {
   "name": "No one in particular",
   "unitType": "Infinitized",
-  "uniqueTo": "Rando's Army",
+  "uniqueTo": "Barbarians",
   "movement": 2,
   "strength": 10,
   "cost": 160,
-  "requiredTech": "Iron Working",
+  "requiredTech": "Calendar",
   "attackSound": "sameoldmeat",
   "promotions": ["Enfranchised", "1st Fold", "2nd Fold", "3rd Fold", "4th Fold", "5th Fold", "6th Fold"],
   "uniques": ["[-24]% Strength <when defending>", "Enfranchised"]
