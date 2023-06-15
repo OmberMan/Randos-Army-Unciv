@@ -63,7 +63,7 @@
  },
 {
   "name": "Jerseyhead",
-  "unitType": "Sword",
+  "unitType": "Infinitized",
   "uniqueTo": "Rando's Army",
   "movement": 2,
   "strength": 10,
@@ -71,11 +71,11 @@
   "requiredTech": "Calendar",
   "attackSound": "sameoldmeat",
   "promotions": ["Enfranchised"],
-  "uniques": ["[-24]% Strength <when defending>", "This Unit gains the [1st Fold] promotion <upon defeating a [Military] unit>"]
+  "uniques": ["[-24]% Strength <when defending>", "This Unit gains the [1st Fold] promotion <upon defeating a [Military] unit>", "[-80]% XP gained from combat", "Enfranchised"]
  },
 {
   "name": "No one in particular",
-  "unitType": "Sword",
+  "unitType": "Infinitized",
   "uniqueTo": "Rando's Army",
   "movement": 2,
   "strength": 10,
@@ -83,7 +83,6 @@
   "requiredTech": "Iron Working",
   "attackSound": "sameoldmeat",
   "promotions": ["Enfranchised", "1st Fold", "2nd Fold", "3rd Fold", "4th Fold", "5th Fold", "6th Fold"],
-  "uniques": ["[-24]% Strength <when defending>",
-]
+  "uniques": ["[-24]% Strength <when defending>", "Enfranchised"]
 }
 ] 
