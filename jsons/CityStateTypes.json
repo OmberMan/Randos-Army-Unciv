@@ -2,15 +2,17 @@
         {  
           "name": "Garbage-type",  
           "friendBonusUniques": [  
-              "[+11]% Food is carried over after population increases [in all non-occupied cities] <starting from the [Medieval era]> <before the [Industrial era]>",  
-              "[+32]% Food is carried over after population increases [in all non-occupied cities] <starting from the [Industrial era]>",  
-                          "[-100]% Unhappiness from [Unemployed] [in all cities]",  
+              "[+14]% Food is carried over after population increases [in all non-occupied cities] <starting from the [Medieval era]> <before the [Industrial era]>",  
+              "[+21]% Food is carried over after population increases [in all non-occupied cities] <starting from the [Industrial era]>",  
+                          "[-100]% Unhappiness from [Unemployed] [in all cities]",
+"[+2 Faith] from [Unemployed] [in all cities]"  
           ],  
           "allyBonusUniques": [   
-              "[+11]% Food is carried over after population increases [in all non-occupied cities] <starting from the [Medieval era]> <before the [Industrial era]>",  
-              "[+32]% Food is carried over after population increases [in all non-occupied cities] <starting from the [Industrial era]>",  
-                          "[-100]% Unhappiness from [Unemployed] [in all cities]",  
-            "[-1 Production, +1 Faith, +2 Happiness] from all [Production] buildings <in cities with at least [3] [Unemployed]>", 
+              "[+28]% Food is carried over after population increases [in all non-occupied cities] <starting from the [Medieval era]> <before the [Industrial era]>",  
+              "[+42]% Food is carried over after population increases [in all non-occupied cities] <starting from the [Industrial era]>",  
+                          "[-100]% Unhappiness from [Unemployed] [in all cities]", 
+"[+4 Faith] from [Unemployed] [in all cities]" 
+            "[-1 Production, +1 Faith, +2 Happiness] from all [Production] buildings <in cities with at least [2] [Unemployed]>", 
             "Provides [3] [Kinda Cool Stuff We Found In The Trash]", "[Scout] units gain the [Garbage Insanity] promotion"],  
           "color": [186, 255, 128]  
       }, 
