@@ -2,6 +2,7 @@
     {
         "name": "Rando's Army",
         "leaderName": "Rando",
+        "personality": "Dusty",
         "adjective": ["Rando's"],
         "startBias": ["Avoid Jungle", "Avoid Snow"],
         "preferredVictoryType": "Domination",
