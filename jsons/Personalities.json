@@ -10,5 +10,9 @@
                 "faith": 1,
                 "military": 10,
                 "warMongering": 9
+"priorities": {
+    "Autocracy": 30,
+    "Order": 20,
+}
         },
 ]
