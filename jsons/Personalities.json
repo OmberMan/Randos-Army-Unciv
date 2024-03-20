@@ -1,0 +1,14 @@
+[
+{
+                "name": "Dusty",
+                "preferredVictoryType": "Domination",
+                "food": 3,
+                "production": 7,
+                "gold": 2,
+                "culture": 1,
+                "science": 2,
+                "faith": 1,
+                "military": 10,
+                "warMongering": 9
+        },
+]
