@@ -34,9 +34,22 @@
   "style": "Barbarians",
 		"declaringWar": "Do you Trash?",
 		"attacked": "You just won't listen to reason...",
-		"defeated": "The Communion of Cellophane prepared us for this. We all end up in the trash bag eventually. Don't you want to practice for it?",
+		"defeated": "The Communion of Cellophane prepared us for this. We all end up in the trash bag eventually. Don't you want to be ready for it?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [186, 255, 128],
 		"cities": ["Garbage Island", "You think there's really something better?"]
+	},
+		{
+		"name": "Enfranchised Downtown",
+		"adjective": ["Infinitized"],
+		"cityStateType": "Enfranchised-type",
+  "uniques": ["[-1 Food] per [2] population [In all cities]", "[-272]% Food is carried over after population increases [in all cities]", "Nullifies [Happiness] [in all cities]", "[-88]% Production when constructing [All] buildings [in all cities]", "[+88]% Production when constructing [Miltary] units [in all cities]", "[-888]% Production when constructing [Civilian] units [in all cities]", "[-88]% Culture cost of natural border growth [in all cities]", "All newly-trained [Land] units [in all cities] receive the [Jerseyhead] promotion", "Enemy [Land] units must spend [+1] extra movement points when inside your territory", "[-104]% maintenance costs", "[-104]% maintenance cost for buildings [in all cities]", "New [Land] units start with [88] Experience [in all cities]", "Free [Jerseyhead] appears <upon turn end>"],
+  "style": "Barbarians",
+		"declaringWar": "   It was a corporate descision.\n Catharsis, omniscience, perpetuety.\nEvery kill is a step closer to infinity.",
+		"attacked": "  None of you are getting it. \nThe only way to go is infinity.",
+		"defeated": "I'm no one in particular",
+		"outerColor": [0, 0, 0],
+		"innerColor": [232, 24, 0],
+		"cities": ["Ruins of Downtown Olathe", "In the desert I saw a creature. Naked. Bestial.", "Who, squatting upon the ground, held his heart in his hands.", "And ate of it.", "I said 'Is it good, friend?'", "'It is bitter - bitter' He answered;", "'But I like it because it is bitter, and because it is my heart.'"]
 	},
 ]
