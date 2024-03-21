@@ -11,7 +11,7 @@
     },
 { "separator": true },
     {
-        "text": "What we've got here... this is good garbage. It doesn't get any better than this, you should know that more than anyone. If you can't see the good in this place, you're not gonna be satisfied anywhere.",
+        "text": "What we've got here... this is good garbage. \nIt doesn't get any better than this, you should know that more than anyone. \nIf you can't see the good in this place, you're not gonna be satisfied anywhere.",
         "size": 21,
         "centered": true,
 },
@@ -144,16 +144,7 @@
 "unitTypes": [ 
               "Infinitized"],
 "civilopediaText": [
-    { "text": "'In the desert
-I saw a creature, naked, bestial,
-Who, squatting upon the ground,
-Held his heart in his hands,
-And ate of it.
-I said, 'Is it good, friend?'
-'It is bitter—bitter,' he answered;
-'But I like it
-Because it is bitter,
-And because it is my heart.''" },
+    { "text": "'In the desert \nI saw a creature, \nnaked, bestial, \nWho, squatting upon the ground, \nHeld his heart in his hands, \nAnd ate of it. \nI said, 'Is it good, friend?' \n'It is \nbitter—bitter,' he answered; \n'But I like it \nBecause it is bitter, \nAnd because it is my heart.''" },
 ]
 },
 ]
