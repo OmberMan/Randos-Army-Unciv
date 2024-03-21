@@ -14,7 +14,7 @@
 },
 {
 		"name": "Jerseyhead",
-		"uniques": ["Uncapturable", "Heals [24] damage if it kills a unit", "Can move after attacking", "[-88]% XP gained from combat", "This Unit gains the [1st Fold] promotion <upon defeating a [Land] unit>", "May capture killed [Land] units <with [24]% chance>", "Earn [-88]% of killed [Land] unit's [Strength] as [culture]","[-24] HP when healing"],
+		"uniques": ["Uncapturable", "Heals [24] damage if it kills a unit", "Can move after attacking", "[-88]% XP gained from combat", "This Unit gains the [1st Fold] promotion <upon defeating a [Land] unit>", "May capture killed [Land] units <with [24]% chance>", "Earn [-88]% of killed [Land] unit's [Strength] as [Culture]","[-24] HP when healing"],
 "prerequisites": ["Enfranchised"], 
 "unitTypes": [ 
               "Infinitized"],
