@@ -5,14 +5,25 @@
               "[+14]% Food is carried over after population increases [in all non-occupied cities] <starting from the [Medieval era]> <before the [Industrial era]>",  
               "[+21]% Food is carried over after population increases [in all non-occupied cities] <starting from the [Industrial era]>",  
                   "[-1 Production, +1 Faith, +2 Happiness] from all [Production] buildings <in cities with at least [3] [Unemployed]>",
-"[+2 Faith, +1 Happiness] from [Unemployed] [in all cities]"  
+"[+1 Production, +1 Happiness] <in cities with at least [1] [unemployed]>", 
+"[+1 Production, +1 Happiness] <in cities with at least [2] [unemployed]>",
+"[+1 Production, +2 Happiness, +1 Faith] <in cities with at least [3] [unemployed]>",
+"[+1 Production, +2 Happiness, +1 Faith] <in cities with at least [4] [unemployed]>",
+"[+1 Production, +3 Happiness, +2 Faith] <in cities with at least [5] [unemployed]>",
+"[+1 Production, +4 Happiness, +3 Faith] <in cities with at least [6] [unemployed]>"
           ],  
           "allyBonusUniques": [   
               "[+28]% Food is carried over after population increases [in all non-occupied cities] <starting from the [Medieval era]> <before the [Industrial era]>",  
               "[+42]% Food is carried over after population increases [in all non-occupied cities] <starting from the [Industrial era]>",  
-               "[-100]% Unhappiness from [Unemployed] [in all cities]", 
-"[+4 Faith, +2 Happines] from [Unemployed] [in all cities]",
-            "[-1 Production, +2 Faith, +2 Happiness, +1 Food] from all [Production] buildings <in cities with at least [2] [Unemployed]>", 
+               "[-80]% Unhappiness from [Unemployed] [in all cities]", 
+"[-1 Production, +1 Faith, +2 Happiness] from all [Production] buildings <in cities with at least [3] [Unemployed]>",
+"[+1 Production, +2 Happiness] <in cities with at least [1] [unemployed]>", 
+"[+1 Production, +2 Happiness, +1 Faith] <in cities with at least [2] [unemployed]>",
+"[+1 Production, +3 Happiness, +2 Faith] <in cities with at least [3] [unemployed]>",
+"[+1 Production, +3 Happiness, +2 Faith] <in cities with at least [4] [unemployed]>",
+"[+1 Production, +4 Happiness, +3 Faith] <in cities with at least [5] [unemployed]>",
+"[+1 Production, +5 Happiness, +4 Faith] <in cities with at least [6] [unemployed]>"
+            "[-1 Production, +2 Faith, +2 Happiness, +1 Gold] from all [Production] buildings <in cities with at least [2] [Unemployed]>", 
             "Provides [3] [Kinda Cool Stuff We Found In The Trash]", "[Scout] units gain the [Garbage Insanity] promotion"],  
           "color": [186, 255, 128]  
       },  
