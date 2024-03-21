@@ -70,8 +70,8 @@
   "cost": 16,
   "requiredTech": "Calendar",
   "attackSound": "sameoldmeat",
-  "promotions": ["Enfranchised"],
-  "uniques": ["[-16]% Strength <when defending>", "This Unit gains the [1st Fold] promotion <upon defeating a [Military] unit>"]
+  "promotions": ["Jerseyhead"],
+  "uniques": ["[-16]% Strength <when attacking>", "[-16]% Strength <when defending> <vs [Ranged] units>", "This Unit gains the [1st Fold] promotion <upon defeating a [Military] unit>"]
  },
 {
   "name": "No one in particular",
@@ -82,7 +82,7 @@
   "cost": 168,
   "requiredTech": "Steam Power",
   "attackSound": "sameoldmeat",
-  "promotions": ["Enfranchised", "1st Fold", "2nd Fold", "3rd Fold", "4th Fold", "5th Fold", "6th Fold"],
-  "uniques": ["[+16]% Strength <vs [Melee] units>", "[-16]% Strength <when defending>", "[16]% Strength bonus for [Jerseyhead] units within [2] tiles"]
+  "promotions": ["Jerseyhead", "1st Fold", "2nd Fold", "3rd Fold", "4th Fold", "5th Fold", "6th Fold"],
+  "uniques": ["[+16]% Strength <vs [Melee] units>", "[-16]% Strength <when attacking>", "[-16]% Strength <when defending> <vs [Ranged] units>", "[-16]% Strength <when defending>", "[16]% Strength bonus for [Jerseyhead] units within [2] tiles"]
 }
 ] 
