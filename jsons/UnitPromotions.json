@@ -8,10 +8,14 @@
 		"name": "Overjoyed",
 		"uniques": ["Unit will heal every turn, even if it performs an action", "[+40]% Strength <vs [Melee] units>", "[+20] HP when healing", "No Sight", "[-33]% Strength for enemy [Land] units in adjacent [Land] tiles", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "[-99]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable"],
 },
-
+{
+                "name": "Enfranchized",
+                "uniques": ["Uncapturable"],
+},
 {
 		"name": "Jerseyhead",
 		"uniques": ["Uncapturable", "Heals [20] damage if it kills a unit", "Can move after attacking", "[-99]% XP gained from combat", "This Unit gains [10] XP <upon defeating a [Military] unit>", "May capture killed [Land] units <with [20]% chance>", "Earn [-88]% of killed [Land] unit's [Strength] as [culture]","[-25] HP when healing"],
+"prerequisites": ["Enfranchised"], 
 "unitTypes": [ 
               "Infinitized", "Sword", "Gunpowder"],
 },
