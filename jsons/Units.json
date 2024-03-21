@@ -71,7 +71,12 @@
   "requiredTech": "Calendar",
   "attackSound": "sameoldmeat",
   "promotions": ["Jerseyhead"],
-  "uniques": ["[-16]% Strength <when attacking>", "[-16]% Strength <when defending> <vs [Ranged] units>", "This Unit gains the [1st Fold] promotion <upon defeating a [Military] unit>"]
+  "uniques": ["[+16]% Strength <when attacking>", "[-16]% Strength <when defending> <vs [Ranged] units>", "This Unit gains the [1st Fold] promotion <upon defeating a [Military] unit>"
+  "[+24]% Strength <starting from the [Classical era]>", 
+  "[+40]% Strength <starting from the [Medieval era]>", 
+  "[+40]% Strength <starting from the [Renaissance era]>",
+  "[+64]% Strength <starting from the [Industrial era]>", 
+  "[+64]% Strength <starting from the [Modern era]>"]
  },
 {
   "name": "No one in particular",
@@ -83,6 +88,11 @@
   "requiredTech": "Steam Power",
   "attackSound": "sameoldmeat",
   "promotions": ["Jerseyhead", "1st Fold", "2nd Fold", "3rd Fold", "4th Fold", "5th Fold", "6th Fold"],
-  "uniques": ["[+16]% Strength <vs [Melee] units>", "[-16]% Strength <when attacking>", "[-16]% Strength <when defending> <vs [Ranged] units>", "[-16]% Strength <when defending>", "[16]% Strength bonus for [Jerseyhead] units within [2] tiles"]
+  "uniques": ["[+16]% Strength <vs [Melee] units>", "[+16]% Strength <when attacking>", "[-16]% Strength <when defending> <vs [Ranged] units>", "[16]% Strength bonus for [Jerseyhead] units within [2] tiles", 
+  "[+24]% Strength <starting from the [Classical era]>", 
+  "[+40]% Strength <starting from the [Medieval era]>", 
+  "[+40]% Strength <starting from the [Renaissance era]>",
+  "[+64]% Strength <starting from the [Industrial era]>", 
+  "[+64]% Strength <starting from the [Modern era]>"]
 }
 ] 
