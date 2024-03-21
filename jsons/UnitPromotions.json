@@ -142,7 +142,7 @@
   "prerequisites": ["7th Fold"],
 		"uniques": ["[+4] additional attacks per turn", "[+272]% Strength", "[-40]% Strength for enemy [Land] units in adjacent [Land] tiles", "[-88]% Strength bonus for [Land] units within [1] tiles", "Can see invisible [All] units"],
 "unitTypes": [ 
-              "Infinitized" "Sword", "Gunpowder"],
+              "Infinitized", "Sword", "Gunpowder"],
 "civilopediaText": [
     { "text": "'In the desert \nI saw a creature, \nnaked, bestial, \nWho, squatting upon the ground, \nHeld his heart in his hands, \nAnd ate of it. \nI said, 'Is it good, friend?' \n'It is \nbitter—bitter,' he answered; \n'But I like it \nBecause it is bitter, \nAnd because it is my heart.''" },
 ]
