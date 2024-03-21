@@ -8,11 +8,12 @@
 		"name": "Overjoyed",
 		"uniques": ["Unit will heal every turn, even if it performs an action", "[+40]% Strength <vs [Melee] units>", "[+20] HP when healing", "No Sight", "[-33]% Strength for enemy [Land] units in adjacent [Land] tiles", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "[-99]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable"],
 },
+
 {
-		"name": "Enfranchised",
-		"uniques": ["Uncapturable", "Heals [40] damage if it kills a unit", "Can move after attacking", "[-99]% XP gained from combat", "This Unit gains [10] XP <upon defeating a [Military] unit>", "May capture killed [Land] units"],
+		"name": "Jerseyhead",
+		"uniques": ["Uncapturable", "Heals [20] damage if it kills a unit", "Can move after attacking", "[-99]% XP gained from combat", "This Unit gains [10] XP <upon defeating a [Military] unit>", "May capture killed [Land] units <with [20]% chance>", "Earn [-88]% of killed [Land] unit's [Strength] as [culture]","[-25] HP when healing"],
 "unitTypes": [ 
-              "Infinitized"],
+              "Infinitized", "Sword", "Gunpowder"],
 },
 {
 		"name": "1st Fold",
@@ -20,55 +21,55 @@
 		"uniques": ["No movement cost to pillage",
 "This Unit gains [20] XP <upon defeating a [Military] unit>", "[+16]% Strength"],
 "unitTypes": [ 
-              "Infinitized"],
+              "Infinitized", "Sword", "Gunpowder"],
 },
 {
 		"name": "2nd Fold",
   "prerequisites": ["1st Fold"], 
 		"uniques": ["This Unit gains [30] XP <upon defeating a [Military] unit>", "[+24]% Strength", "[+1] Movement"],
 "unitTypes": [ 
-              "Infinitized"],
+              "Infinitized", "Sword", "Gunpowder"],
 },
 {
 		"name": "3rd Fold",
   "prerequisites": ["2nd Fold"],
 		"uniques": ["This Unit gains [40] XP <upon defeating a [Military] unit>", "[+40]% Strength", "[+1] additional attacks per turn"],
 "unitTypes": [ 
-              "Infinitized"],
+              "Infinitized", "Sword", "Gunpowder"],
 },
 {
 		"name": "4th Fold",
   "prerequisites": ["3rd Fold"],
 		"uniques": ["Destroys tile improvements when attacking", "This Unit gains [50] XP <upon defeating a [Military] unit>", "[+64]% Strength", "[+1] Movements"],
 "unitTypes": [ 
-              "Infinitized"],
+              "Infinitized", "Sword", "Gunpowder"],
 },
 {
 		"name": "5th Fold",
   "prerequisites": ["4th Fold"],
 		"uniques": ["[+1] additional attacks per turn", "This Unit gains [60] XP <upon defeating a [Military] unit>", "[+104]% Strength", "[+8]% Strength bonus for [Enfranchised] units within [1] tiles"],
 "unitTypes": [ 
-              "Infinitized"],
+              "Infinitized", "Sword", "Gunpowder"],
 },
 {
 		"name": "6th Fold",
   "prerequisites": ["5th Fold"],
 		"uniques": ["[+1] movement", "This Unit gains [70] XP <upon defeating a [Military] unit>", "[+168]% Strength", "[+8]% Strength bonus for [Enfranchised] units within [2] tiles"],
 "unitTypes": [ 
-              "Infinitized"],
+              "Infinitized", "Sword", "Gunpowder"],
 },
 {
 		"name": "7th Fold",
   "prerequisites": ["6th Fold"],
-		"uniques": ["[+1] additional attacks per turn", "This Unit gains [80] XP <upon defeating a [Military] unit>", "[+272]% Strength", "[+16]% Strength bonus for [Enfranchised] units within [3] tiles"],
+		"uniques": ["[+2] additional attacks per turn", "This Unit gains [80] XP <upon defeating a [Military] unit>", "[+272]% Strength", "[+16]% Strength bonus for [Enfranchised] units within [3] tiles"],
 "unitTypes": [ 
-              "Infinitized"],
+              "Infinitized", "Sword", "Gunpowder"],
 },
 {
 		"name": "8th Fold",
   "prerequisites": ["7th Fold"],
-		"uniques": ["[+4] additional attacks per turn", "[+440]% Strength", "[+16]% Strength bonus for [Enfranchised] units within [4] tiles", "[-24]% Strength for enemy [Land] units in adjacent [Land] tiles"],
+		"uniques": ["[+4] additional attacks per turn", "[+440]% Strength", "[+24]% Strength bonus for [Enfranchised] units within [4] tiles", "[-24]% Strength for enemy [Land] units in adjacent [Land] tiles"],
 "unitTypes": [ 
-              "Infinitized"],
-}
+              "Infinitized", "Sword", "Gunpowder"],
+},
 ]
