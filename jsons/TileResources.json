@@ -7,7 +7,9 @@
 		
 		"civilopediaText": [
 			{
-				"text": "Oh dang that's Larry's mother-in-law"
+				"text": "Life is trash.",
+"size": 21,
+ "centered": true,
 			}
 		]
 }
