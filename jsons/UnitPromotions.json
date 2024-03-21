@@ -103,7 +103,7 @@
   "prerequisites": ["4th Fold"],
 		"uniques": ["[+1] additional attacks per turn", "This Unit gains [48] XP <upon defeating a [Military] unit>", "[+64]% Strength", "[-8]% Strength for enemy [Land] units in adjacent [All] tiles"],
 "unitTypes": [ 
-              "Infinitized" "Sword", "Gunpowder"],
+              "Infinitized", "Sword", "Gunpowder"],
 "civilopediaText": [
     { "text": "64 more kills.",
 "size": 25,
