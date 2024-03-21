@@ -28,10 +28,10 @@
  {
   "name": "Joy Boy",
   "unitType": "Sword",
-  "uniqueTo": "Barbarians",
+"uniqueTo": "Rando's Army",
   "movement": 3,
   "strength": 13,
-  "cost": 40,
+  "cost": 80,
   "requiredTech": "Bronze Working",
   "attackSound": "joy",
   "promotions": ["Drill I", "Overjoyed"],
@@ -40,31 +40,35 @@
 {
   "name": "Peter",
   "unitType": "Mounted",
-  "uniqueTo": "Barbarians",
   "movement": 3,
-  "strength": 29,
-  "cost": 999,
+  "strength": 28,
+  "cost": 200,
+  "uniqueTo": "Rando's Army",
   "requiredTech": "Bronze Working",
   "attackSound": "notfair",
   "promotions": ["Overjoyed"],
-  "uniques": ["Unbuildable", "[+20]% Strength <with [40]% chance> <when attacking>", "[+1] additional attacks per turn", "May withdraw before melee ([40]%)", "Ignores terrain cost", "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", "No Sight", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable",  "[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "Can move after attacking", "Destroys tile improvements when attacking", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles", "[+1] Movement <in [Hill] tiles>"]
+  "uniques": [
+//"Unbuildable", 
+"[+20]% Strength <with [40]% chance> <when attacking>", "[+1] additional attacks per turn", "May withdraw before melee ([40]%)", "Ignores terrain cost", "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", "No Sight", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable",  "[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "Can move after attacking", "Destroys tile improvements when attacking", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles", "[+1] Movement <in [Hill] tiles>"]
  },
 {
   "name": "Cooper",
   "unitType": "Mounted",
-  "uniqueTo": "Barbarians",
+  "uniqueTo": "Rando's Army",
   "movement": 1,
   "strength": 27,
-  "cost": 999,
+  "cost": 200,
   "requiredTech": "Bronze Working",
   "attackSound": "notfair",
   "promotions": ["Overjoyed"],
-  "uniques": ["Unbuildable","[-20]% Strength <when defending>", "[+2] additional attacks per turn <when [Wounded]>", "[+2] Movement <when [Wounded]>", "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", "No Sight", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable", "[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "Destroys tile improvements when attacking", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles"]
+  "uniques": [
+//"Unbuildable",
+"[-20]% Strength <when defending>", "[+2] additional attacks per turn <when [Wounded]>", "[+2] Movement <when [Wounded]>", "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", "No Sight", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable", "[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "Destroys tile improvements when attacking", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles"]
  },
 {
   "name": "Jerseyhead",
   "unitType": "Sword",
-  "uniqueTo": "Barbarians",
+  "uniqueTo": "Rando's Army",
   "movement": 2,
   "strength": 8,
   "cost": 16,
@@ -81,7 +85,7 @@
 {
   "name": "No one in particular",
   "unitType": "Infinitized",
-  "uniqueTo": "Barbarians",
+  "uniqueTo": "Rando's Army",
   "movement": 2,
   "strength": 8,
   "cost": 168,
