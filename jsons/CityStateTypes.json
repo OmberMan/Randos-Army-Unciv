@@ -4,33 +4,37 @@
           "friendBonusUniques": [  
               "[+14]% Food is carried over after population increases [in all non-occupied cities] <starting from the [Medieval era]> <before the [Industrial era]>",  
               "[+21]% Food is carried over after population increases [in all non-occupied cities] <starting from the [Industrial era]>",  
-                          "[-100]% Unhappiness from [Unemployed] [in all cities]",
-"[+2 Faith] from [Unemployed] [in all cities]"  
+                  "[-1 Production, +1 Faith, +2 Happiness] from all [Production] buildings <in cities with at least [3] [Unemployed]>",
+"[+2 Faith, +1 Happiness] from [Unemployed] [in all cities]"  
           ],  
           "allyBonusUniques": [   
               "[+28]% Food is carried over after population increases [in all non-occupied cities] <starting from the [Medieval era]> <before the [Industrial era]>",  
               "[+42]% Food is carried over after population increases [in all non-occupied cities] <starting from the [Industrial era]>",  
-                          "[-100]% Unhappiness from [Unemployed] [in all cities]", 
-"[+4 Faith] from [Unemployed] [in all cities]" 
-            "[-1 Production, +1 Faith, +2 Happiness] from all [Production] buildings <in cities with at least [2] [Unemployed]>", 
+               "[-100]% Unhappiness from [Unemployed] [in all cities]", 
+"[+4 Faith, +2 Happines] from [Unemployed] [in all cities]",
+            "[-1 Production, +2 Faith, +2 Happiness, +1 Food] from all [Production] buildings <in cities with at least [2] [Unemployed]>", 
             "Provides [3] [Kinda Cool Stuff We Found In The Trash]", "[Scout] units gain the [Garbage Insanity] promotion"],  
           "color": [186, 255, 128]  
       },  
         {  
           "name": "Enfranchised-type",  
           "friendBonusUniques": [  
-              "[+14]% Food is carried over after population increases [in all non-occupied cities] <starting from the [Medieval era]> <before the [Industrial era]>",  
-              "[+21]% Food is carried over after population increases [in all non-occupied cities] <starting from the [Industrial era]>",  
-                          "[-100]% Unhappiness from [Unemployed] [in all cities]",
-"[+2 Faith] from [Unemployed] [in all cities]"  
+              "[-4 Food] per [16] population [in all cities]",  
+              "Resting point for Influence with City-States is increased by [-8]",
+              "[+40]% Unhappiness from [Population] [in all cities] <when at peace>",
+              "[+8 Happiness] <when at war>",
+       "[+104]% Production when constructing [Sword] units [in all cities] <when at war>", "[+104]% Production when constructing [Gunpowder] units [in all cities] <when at war>",
+              "[-64]% Food is carried over after population increases [in all cities]",
+"[Scout] units gain the [Enfranchised] promotion", "[Gunpowder] units gain the [Enfranchised] promotion", "[Sword] units gain the [Enfranchised] promotion" 
           ],  
           "allyBonusUniques": [   
-              "[+28]% Food is carried over after population increases [in all non-occupied cities] <starting from the [Medieval era]> <before the [Industrial era]>",  
-              "[+42]% Food is carried over after population increases [in all non-occupied cities] <starting from the [Industrial era]>",  
-                          "[-100]% Unhappiness from [Unemployed] [in all cities]", 
-"[+4 Faith] from [Unemployed] [in all cities]" 
-            "[-1 Production, +1 Faith, +2 Happiness] from all [Production] buildings <in cities with at least [2] [Unemployed]>", 
-            "Provides [3] [Kinda Cool Stuff We Found In The Trash]", "[Scout] units gain the [Garbage Insanity] promotion"],  
-          "color": [186, 255, 128]  
+"[-4 Food] per [8] population [in all cities]",  
+                  "Rebel units may spawn <in [Friendly land] tiles>",
+              "Resting point for Influence with City-States is increased by [-16]",
+               "[+168]% Production when constructing [Sword] units [in all cities] <when at war>", "[+168]% Production when constructing [Gunpowder] units [in all cities] <when at war>"
+              "[+64]% Unhappiness from [Population] [in all cities] <when at peace>",
+              "[+16 Happiness] <when at war>"
+              "[-104]% Food is carried over after population increases [in all cities]", "[Scout] units gain the [Enfranchised] promotion", "[Gunpowder] units gain the [Enfranchised] promotion", "[Sword] units gain the [Enfranchised] promotion"],  
+          "color": [232, 24, 0]  
       }, 
  ]
