@@ -3,6 +3,19 @@
 		"name": "Garbage Insanity",
 		"uniques": ["No movement cost to pillage", "[-50]% XP gained from combat", "[-100]% maintenance costs",
 "Unit will heal every turn, even if it performs an action", "Invisible to non-adjacent units"],
+"civilopediaText": [
+    { "text": "'A wise man, recognizing that the world is but an illusion, does not act as if it is real, so he escapes the suffering.'" },
+{ "separator": true },    
+    {
+        "text": "'True happiness cannot possibly exist... for the foolish person it is convenient to live, but to the wise person it is a matter of apathy; and that the wise person will do everything for his own sake; for that he will not consider any one else of equal importance with himself...'",
+    },
+{ "separator": true },
+    {
+        "text": "What we've got here... this is good garbage. It doesn't get any better than this, you should know that more than anyone. If you can't see the good in this place, you're not gonna be satisfied anywhere.",
+        "size": 21,
+        "centered": true,
+},
+],
 },
 {
 		"name": "Overjoyed",
@@ -11,6 +24,11 @@
 {
                 "name": "Enfranchised",
                 "uniques": ["Uncapturable"],
+                 "civilopediaText": [
+    { "text": "One franchise, infinite kings!",
+"size": 21,
+ "centered": true, },
+]
 },
 {
 		"name": "Jerseyhead",
@@ -18,56 +36,104 @@
 "prerequisites": ["Enfranchised"], 
 "unitTypes": [ 
               "Infinitized"],
+"civilopediaText": [
+    { "text": "It's my first time being violent.",
+"size": 21,
+ "centered": true,
+},
+]   
 },
 {
 		"name": "1st Fold",
   "prerequisites": ["Jerseyhead"], 
 		"uniques": ["No movement cost to pillage",
-"This Unit gains [24] XP <upon defeating a [Military] unit>", "[+8]% Strength"],
+"This Unit gains [16] XP <upon defeating a [Military] unit>", "[+8]% Strength"],
 "unitTypes": [ 
               "Infinitized"],
+"civilopediaText": [
+    { "text": "8 kills",
+"size": 25,
+ "centered": true,
+},
+]   
 },
 {
 		"name": "2nd Fold",
   "prerequisites": ["1st Fold"], 
-		"uniques": ["This Unit gains [16] XP <upon defeating a [Military] unit>", "[+16]% Strength"],
+		"uniques": ["This Unit gains [24] XP <upon defeating a [Military] unit>", "[+16]% Strength"],
 "unitTypes": [ 
               "Infinitized"],
+"civilopediaText": [
+    { "text": "16 more kills.",
+"size": 25,
+ "centered": true,
+},
+]   
 },
 {
 		"name": "3rd Fold",
   "prerequisites": ["2nd Fold"],
-		"uniques": ["This Unit gains [8] XP <upon defeating a [Military] unit>", "[+24]% Strength", "[+1] additional attacks per turn"],
+		"uniques": ["This Unit gains [32] XP <upon defeating a [Military] unit>", "[+24]% Strength", "[+1] additional attacks per turn"],
 "unitTypes": [ 
               "Infinitized"],
+"civilopediaText": [
+    { "text": "24 more kills.",
+"size": 25,
+ "centered": true,
+},
+]   
 },
 {
 		"name": "4th Fold",
   "prerequisites": ["3rd Fold"],
-		"uniques": ["Destroys tile improvements when attacking", "This Unit gains [8] XP <upon defeating a [Military] unit>", "[+40]% Strength", "[+1] Movement"],
+		"uniques": ["Destroys tile improvements when attacking", "This Unit gains [40] XP <upon defeating a [Military] unit>", "[+40]% Strength", "[+1] Movement"],
 "unitTypes": [ 
               "Infinitized"],
+"civilopediaText": [
+    { "text": "40 more kills.",
+"size": 25,
+ "centered": true,
+},
+]   
 },
 {
 		"name": "5th Fold",
   "prerequisites": ["4th Fold"],
-		"uniques": ["[+1] additional attacks per turn", "This Unit gains [4] XP <upon defeating a [Military] unit>", "[+64]% Strength", "[-8]% Strength for enemy [Land] units in adjacent [All] tiles"],
+		"uniques": ["[+1] additional attacks per turn", "This Unit gains [48] XP <upon defeating a [Military] unit>", "[+64]% Strength", "[-8]% Strength for enemy [Land] units in adjacent [All] tiles"],
 "unitTypes": [ 
               "Infinitized"],
+"civilopediaText": [
+    { "text": "64 more kills.",
+"size": 25,
+ "centered": true,
+},
+]   
 },
 {
 		"name": "6th Fold",
   "prerequisites": ["5th Fold"],
-		"uniques": ["[+1] movement", "This Unit gains [2] XP <upon defeating a [Military] unit>", "[+104]% Strength", "[-16]% Strength for enemy [Land] units in adjacent [All] tiles"],
+		"uniques": ["[+1] movement", "This Unit gains [56] XP <upon defeating a [Military] unit>", "[+104]% Strength", "[-16]% Strength for enemy [Land] units in adjacent [All] tiles"],
 "unitTypes": [ 
               "Infinitized"],
+"civilopediaText": [
+    { "text": "104 more kills.",
+"size": 25,
+ "centered": true,
+},
+]   
 },
 {
 		"name": "7th Fold",
   "prerequisites": ["6th Fold"],
-		"uniques": ["[+2] additional attacks per turn", "This Unit gains [1] XP <upon defeating a [Military] unit>", "[+168]% Strength", "[-24]% Strength for enemy [Land] units in adjacent [Land] tiles"],
+		"uniques": ["[+2] additional attacks per turn", "This Unit gains [72] XP <upon defeating a [Military] unit>", "[+168]% Strength", "[-24]% Strength for enemy [Land] units in adjacent [Land] tiles"],
 "unitTypes": [ 
               "Infinitized"],
+"civilopediaText": [
+    { "text": "168 more kills.",
+"size": 25,
+ "centered": true,
+},
+]   
 },
 {
 		"name": "8th Fold",
@@ -75,5 +141,17 @@
 		"uniques": ["[+4] additional attacks per turn", "[+272]% Strength", "[-40]% Strength for enemy [Land] units in adjacent [Land] tiles", "[-88]% Strength bonus for [Land] units within [1] tiles", "Can see invisible [All] units"],
 "unitTypes": [ 
               "Infinitized"],
+"civilopediaText": [
+    { "text": "'In the desert
+I saw a creature, naked, bestial,
+Who, squatting upon the ground,
+Held his heart in his hands,
+And ate of it.
+I said, 'Is it good, friend?'
+'It is bitter—bitter,' he answered;
+'But I like it
+Because it is bitter,
+And because it is my heart.''" },
+]
 },
 ]
