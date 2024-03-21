@@ -19,7 +19,7 @@
 },
 {
 		"name": "Overjoyed",
-		"uniques": ["Unit will heal every turn, even if it performs an action", "[+33]% Strength", "Heal this unit by [15] HP <upon losing at least [25] HP in a single attack>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "Uncapturable"
+		"uniques": ["Unit will heal every turn, even if it performs an action", "[+33]% Strength", "Heal this unit by [10] HP <upon losing at least [20] HP in a single attack>", "[-50]% XP gained from combat", "Damage is ignored when determining unit Strength", "Uncapturable", "Can transform to [Peter]", " Can transform to [Cooper]",
 "Free [Peter] appears <upon being defeated> <with [20]% chance>", "Free [Cooper] appears <upon being defeated> <with [20]% chance>", "[+80]% Strength <when below [16] HP>"],
 },
 {
@@ -28,7 +28,8 @@
                  "civilopediaText": [
     { "text": "One franchise, infinite kings!",
 "size": 21,
- "centered": true, },
+ "centered": true
+},
 ]
 },
 {
