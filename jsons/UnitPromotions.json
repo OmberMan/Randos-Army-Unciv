@@ -1,7 +1,7 @@
 [
 {
 		"name": "Garbage Insanity",
-		"uniques": ["No movement cost to pillage", "[-50]% XP gained from combat", "[-100]% maintenance costs",
+		"uniques": ["No movement cost to pillage", "[-50]% XP gained from combat", "[-100]% maintenance costs", "[-40%] Strength", "No defensive terrain penalty", "Defense bonus when embarked", "May withdraw before melee ([30]%)", 
 "Unit will heal every turn, even if it performs an action", "Invisible to non-adjacent units"],
 "civilopediaText": [
     { "text": "'A wise man, recognizing that the world is but an illusion, does not act as if it is real, so he escapes the suffering.'" },
@@ -19,7 +19,7 @@
 },
 {
 		"name": "Overjoyed",
-		"uniques": ["Unit will heal every turn, even if it performs an action", "[+40]% Strength <vs [Melee] units>", "[+20] HP when healing", "No Sight", "[-33]% Strength for enemy [Land] units in adjacent [Land] tiles", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "[-99]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable"],
+		"uniques": ["Unit will heal every turn, even if it performs an action", "[+33]% Strength", "[+20] HP when healing", "No Sight", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "[-99]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable"],
 },
 {
                 "name": "Enfranchised",
