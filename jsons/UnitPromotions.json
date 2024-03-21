@@ -21,6 +21,8 @@
 		"name": "Overjoyed",
 		"uniques": ["Unit will heal every turn, even if it performs an action", "[+33]% Strength", "Heal this unit by [10] HP <upon losing at least [20] HP in a single attack>", "[-50]% XP gained from combat", "Damage is ignored when determining unit Strength", "Uncapturable", "Can transform to [Peter]", " Can transform to [Cooper]",
 "Free [Peter] appears <upon being defeated> <with [20]% chance>", "Free [Cooper] appears <upon being defeated> <with [20]% chance>", "[+80]% Strength <when below [16] HP>"],
+"civilopediaText": [
+    { "text": "'People think it's all about misery and desperation and death and all that shit which is not to be ignored, but what they forget is the pleasure of it. Otherwise we wouldn't do it. After all, we're not fucking stupid. At least, we're not that fucking stupid.'"}
 },
 {
                 "name": "Enfranchised",
