@@ -37,7 +37,7 @@
 		"uniques": ["Uncapturable", "Heals [24] damage if it kills a unit", "Can move after attacking", "[-88]% XP gained from combat", "This Unit gains the [1st Fold] promotion <upon defeating a [Land] unit>", "May capture killed [Land] units <with [24]% chance>", "Earn [-88]% of killed [Land] unit's [Strength] as [Culture]","[-24] HP when healing"],
 "prerequisites": ["Enfranchised"], 
 "unitTypes": [ 
-              "Infinitized"],
+              "Infinitized", "Sword", "Gunpowder"],
 "civilopediaText": [
     { "text": "It's my first time being violent.",
 "size": 21,
@@ -51,7 +51,7 @@
 		"uniques": ["No movement cost to pillage",
 "This Unit gains [16] XP <upon defeating a [Military] unit>", "[+8]% Strength"],
 "unitTypes": [ 
-              "Infinitized"],
+              "Infinitized", "Sword", "Gunpowder"],
 "civilopediaText": [
     { "text": "8 kills",
 "size": 25,
@@ -64,7 +64,7 @@
   "prerequisites": ["1st Fold"], 
 		"uniques": ["This Unit gains [24] XP <upon defeating a [Military] unit>", "[+16]% Strength"],
 "unitTypes": [ 
-              "Infinitized"],
+              "Infinitized", "Sword", "Gunpowder"],
 "civilopediaText": [
     { "text": "16 more kills.",
 "size": 25,
@@ -77,7 +77,7 @@
   "prerequisites": ["2nd Fold"],
 		"uniques": ["This Unit gains [32] XP <upon defeating a [Military] unit>", "[+24]% Strength", "[+1] additional attacks per turn"],
 "unitTypes": [ 
-              "Infinitized"],
+              "Infinitized", "Sword", "Gunpowder"],
 "civilopediaText": [
     { "text": "24 more kills.",
 "size": 25,
@@ -90,7 +90,7 @@
   "prerequisites": ["3rd Fold"],
 		"uniques": ["Destroys tile improvements when attacking", "This Unit gains [40] XP <upon defeating a [Military] unit>", "[+40]% Strength", "[+1] Movement"],
 "unitTypes": [ 
-              "Infinitized"],
+              "Infinitized", "Sword", "Gunpowder"],
 "civilopediaText": [
     { "text": "40 more kills.",
 "size": 25,
@@ -103,7 +103,7 @@
   "prerequisites": ["4th Fold"],
 		"uniques": ["[+1] additional attacks per turn", "This Unit gains [48] XP <upon defeating a [Military] unit>", "[+64]% Strength", "[-8]% Strength for enemy [Land] units in adjacent [All] tiles"],
 "unitTypes": [ 
-              "Infinitized"],
+              "Infinitized" "Sword", "Gunpowder"],
 "civilopediaText": [
     { "text": "64 more kills.",
 "size": 25,
@@ -116,7 +116,7 @@
   "prerequisites": ["5th Fold"],
 		"uniques": ["[+1] movement", "This Unit gains [56] XP <upon defeating a [Military] unit>", "[+104]% Strength", "[-16]% Strength for enemy [Land] units in adjacent [All] tiles"],
 "unitTypes": [ 
-              "Infinitized"],
+              "Infinitized", "Sword", "Gunpowder"],
 "civilopediaText": [
     { "text": "104 more kills.",
 "size": 25,
@@ -129,7 +129,7 @@
   "prerequisites": ["6th Fold"],
 		"uniques": ["[+2] additional attacks per turn", "This Unit gains [72] XP <upon defeating a [Military] unit>", "[+168]% Strength", "[-24]% Strength for enemy [Land] units in adjacent [Land] tiles"],
 "unitTypes": [ 
-              "Infinitized"],
+              "Infinitized", "Sword", "Gunpowder"],
 "civilopediaText": [
     { "text": "168 more kills.",
 "size": 25,
@@ -142,7 +142,7 @@
   "prerequisites": ["7th Fold"],
 		"uniques": ["[+4] additional attacks per turn", "[+272]% Strength", "[-40]% Strength for enemy [Land] units in adjacent [Land] tiles", "[-88]% Strength bonus for [Land] units within [1] tiles", "Can see invisible [All] units"],
 "unitTypes": [ 
-              "Infinitized"],
+              "Infinitized" "Sword", "Gunpowder"],
 "civilopediaText": [
     { "text": "'In the desert \nI saw a creature, \nnaked, bestial, \nWho, squatting upon the ground, \nHeld his heart in his hands, \nAnd ate of it. \nI said, 'Is it good, friend?' \n'It is \nbitter—bitter,' he answered; \n'But I like it \nBecause it is bitter, \nAnd because it is my heart.''" },
 ]
