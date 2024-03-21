@@ -21,7 +21,7 @@
 },
 {
 		"name": "1st Fold",
-  "prerequisites": ["Enfranchised"], 
+  "prerequisites": ["Jerseyhead"], 
 		"uniques": ["No movement cost to pillage",
 "This Unit gains [20] XP <upon defeating a [Military] unit>", "[+16]% Strength"],
 "unitTypes": [ 
