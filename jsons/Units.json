@@ -28,7 +28,7 @@
  {
   "name": "Joy Boy",
   "unitType": "Sword",
-"uniqueTo": "Rando's Army",
+"uniqueTo": "Barbarians",
   "movement": 3,
   "strength": 13,
   "cost": 80,
@@ -43,7 +43,7 @@
   "movement": 3,
   "strength": 28,
   "cost": 200,
-  "uniqueTo": "Rando's Army",
+  "uniqueTo": "Barbarians",
   "requiredTech": "Bronze Working",
   "attackSound": "notfair",
   "promotions": ["Overjoyed"],
@@ -52,7 +52,7 @@
 {
   "name": "Cooper",
   "unitType": "Mounted",
-  "uniqueTo": "Rando's Army",
+  "uniqueTo": "Barbarians",
   "movement": 1,
   "strength": 27,
   "cost": 200,
@@ -64,7 +64,7 @@
 {
   "name": "Jerseyhead",
   "unitType": "Sword",
-  "uniqueTo": "Rando's Army",
+  "uniqueTo": "Barbarians",
   "movement": 2,
   "strength": 8,
   "cost": 16,
@@ -81,7 +81,7 @@
 {
   "name": "No one in particular",
   "unitType": "Infinitized",
-  "uniqueTo": "Rando's Army",
+  "uniqueTo": "Barbarians",
   "movement": 2,
   "strength": 8,
   "cost": 168,
