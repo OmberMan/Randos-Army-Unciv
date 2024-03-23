@@ -53,7 +53,7 @@
 		"name": "1st Fold",
   "prerequisites": ["Jerseyhead"], 
 		"uniques": ["No movement cost to pillage",
-"This Unit gains [16] XP <upon defeating a [Military] unit>", "[+8]% Strength"],
+"This Unit gains [8] XP <upon defeating a [Military] unit>", "[+8]% Strength"],
 "unitTypes": [ 
               "Infinitized", "Sword", "Gunpowder"],
 "civilopediaText": [
@@ -66,7 +66,7 @@
 {
 		"name": "2nd Fold",
   "prerequisites": ["1st Fold"], 
-		"uniques": ["This Unit gains [24] XP <upon defeating a [Military] unit>", "[+16]% Strength"],
+		"uniques": ["This Unit gains [8] XP <upon defeating a [Military] unit>", "[+16]% Strength"],
 "unitTypes": [ 
               "Infinitized", "Sword", "Gunpowder"],
 "civilopediaText": [
@@ -79,7 +79,7 @@
 {
 		"name": "3rd Fold",
   "prerequisites": ["2nd Fold"],
-		"uniques": ["This Unit gains [32] XP <upon defeating a [Military] unit>", "[+24]% Strength", "[+1] additional attacks per turn"],
+		"uniques": ["This Unit gains [8] XP <upon defeating a [Military] unit>", "[+24]% Strength", "[+1] additional attacks per turn"],
 "unitTypes": [ 
               "Infinitized", "Sword", "Gunpowder"],
 "civilopediaText": [
@@ -92,7 +92,7 @@
 {
 		"name": "4th Fold",
   "prerequisites": ["3rd Fold"],
-		"uniques": ["Destroys tile improvements when attacking", "This Unit gains [40] XP <upon defeating a [Military] unit>", "[+40]% Strength", "[+1] Movement"],
+		"uniques": ["Destroys tile improvements when attacking", "This Unit gains [8] XP <upon defeating a [Military] unit>", "[+40]% Strength", "[+1] Movement"],
 "unitTypes": [ 
               "Infinitized", "Sword", "Gunpowder"],
 "civilopediaText": [
@@ -105,7 +105,7 @@
 {
 		"name": "5th Fold",
   "prerequisites": ["4th Fold"],
-		"uniques": ["[+1] additional attacks per turn", "This Unit gains [48] XP <upon defeating a [Military] unit>", "[+64]% Strength", "[-8]% Strength for enemy [Land] units in adjacent [All] tiles"],
+		"uniques": ["[+1] additional attacks per turn", "This Unit gains [8] XP <upon defeating a [Military] unit>", "[+64]% Strength", "[-8]% Strength for enemy [Land] units in adjacent [All] tiles"],
 "unitTypes": [ 
               "Infinitized", "Sword", "Gunpowder"],
 "civilopediaText": [
@@ -118,7 +118,7 @@
 {
 		"name": "6th Fold",
   "prerequisites": ["5th Fold"],
-		"uniques": ["[+1] movement", "This Unit gains [56] XP <upon defeating a [Military] unit>", "[+104]% Strength", "[-16]% Strength for enemy [Land] units in adjacent [All] tiles"],
+		"uniques": ["[+1] movement", "This Unit gains [8] XP <upon defeating a [Military] unit>", "[+104]% Strength", "[-16]% Strength for enemy [Land] units in adjacent [All] tiles"],
 "unitTypes": [ 
               "Infinitized", "Sword", "Gunpowder"],
 "civilopediaText": [
@@ -131,7 +131,7 @@
 {
 		"name": "7th Fold",
   "prerequisites": ["6th Fold"],
-		"uniques": ["[+2] additional attacks per turn", "This Unit gains [72] XP <upon defeating a [Military] unit>", "[+168]% Strength", "[-24]% Strength for enemy [Land] units in adjacent [Land] tiles"],
+		"uniques": ["[+2] additional attacks per turn", "This Unit gains [8] XP <upon defeating a [Military] unit>", "[+168]% Strength", "[-24]% Strength for enemy [Land] units in adjacent [Land] tiles"],
 "unitTypes": [ 
               "Infinitized", "Sword", "Gunpowder"],
 "civilopediaText": [
