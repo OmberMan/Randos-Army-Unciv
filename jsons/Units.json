@@ -77,6 +77,24 @@
   "[+64]% Strength <starting from the [Modern era]>"]
  },
 {
+  "name": "Stefan Kindchild",
+  "unitType": "Siege",
+  "uniqueTo": "Barbarians",
+  "movement": 1,
+  "strength": 10,
+  "rangedStrength": 19,
+  "cost": 40,
+  "requiredTech": "Engineering",
+  "attackSound": "sameoldmeat",
+  "promotions": ["Jerseyhead"],
+  "uniques": ["[+16]% Strength <when attacking>", "[-16]% Strength <when defending> <vs [Ranged] units>", "[+28]% Strength bonus for [Jerseyhead] units within [3] tiles", 
+  "[+24]% Strength <starting from the [Classical era]>", 
+  "[+40]% Strength <starting from the [Medieval era]>", 
+  "[+40]% Strength <starting from the [Renaissance era]>",
+  "[+64]% Strength <starting from the [Industrial era]>", 
+  "[+64]% Strength <starting from the [Modern era]>"]
+ },
+{
   "name": "No one in particular",
   "unitType": "Infinitized",
   "uniqueTo": "Barbarians",
