@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Joy Lab",
+	    "cost": 65,
+		    "production": -1,
+        "requiredResource": ["Joy"],
+		    "maintenance": 1,
+		    "hurryCostModifier": 0,
+		    "uniques": ["[-50]% [Production] [in this city] <when below [1] [Joy]>", "[2] free [Joy Boy] units appear", "[1] free [Joy Division] units appear", "[+200]% [Unhappiness] [in this city] <when below [1] [Joy]>", "[-5]% growth [in all cities] <when above [1] [Joy]>", "Unsellable", "[-10]% [Culture] [in this city]", "[-50]% growth [in this city] <when above [1] [Joy]>", "Nullifies [Unhappiness] [in this city] <when above [1] [Joy]>", "All newly-trained [Land] units [in this city] receive the [Overjoyed] promotion <when above [1] [Joy]>", "Destroyed when the city is captured"],        
+		    "requiredTech": "Calendar",
+    },
+    {
+        "name": "Ramshackle Jersey Store",
+	    "cost": 15,
+        "requiredResource": ["Knockoff Kung Brand Sportswear"],
+		    "hurryCostModifier": 88,
+		    "uniques": ["[-1] population [in this city]", "[4] free [Jerseyhead] units appear", "Destroyed when the city is captured", "[-40]% Food is carried over after population increases [in this city]", "Unsellable", "All newly-trained [Land] units [in this city] receive the [Enfranchised] promotion <when above [1] [Knockoff Kung Brand Sportswear]>"],        
+		    "requiredTech": "Calendar",
+    },
+]
