@@ -48,4 +48,15 @@
               "[-104]% Food is carried over after population increases [in all cities]", "[Scout] units gain the [Enfranchised] promotion", "[Gunpowder] units gain the [Enfranchised] promotion", "[Sword] units gain the [Enfranchised] promotion"],  
           "color": [232, 24, 0]  
       }, 
+{  
+          "name": "Overjoyed-type",  
+          "friendBonusUniques": [   
+              "Resting point for Influence with City-States is increased by [-4]",
+          "Provides [2] [Joy]"
+          ],  
+          "allyBonusUniques": [ "[+3 Science]",  
+              "Resting point for Influence with City-States is increased by [-8]",
+          "Provides [6] [Joy]"],  
+          "color": [80, 250, 240]  
+      }, 
  ]
