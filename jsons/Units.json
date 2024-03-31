@@ -79,7 +79,7 @@
   "cost": 250,
   "requiredTech": "Bronze Working",
   "attackSound": "notfair",
-  "uniques": ["Unit will heal every turn, even if it performs an action", "[+1] additional attacks per turn", "[+15] HP when healing", "Unable to pillage tiles" "No Sight", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "Heal this unit by [5] HP <upon defeating a [Land] unit>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable", "[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "Destroys tile improvements when attacking", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles"]
+  "uniques": ["Unit will heal every turn, even if it performs an action", "[+1] additional attacks per turn", "[+15] HP when healing", "No Sight", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "Heal this unit by [5] HP <upon defeating a [Land] unit>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable", "[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "Destroys tile improvements when attacking", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles"]
 },
 {
   "name": "Jerseyhead",
