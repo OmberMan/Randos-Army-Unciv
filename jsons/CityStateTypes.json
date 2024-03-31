@@ -35,7 +35,7 @@
               "[+40]% Unhappiness from [Population] [in all cities] <when at peace>",
               "[+8 Happiness] <when at war>",
        "[+104]% Production when constructing [Sword] units [in all cities] <when at war>", "[+104]% Production when constructing [Gunpowder] units [in all cities] <when at war>",
-              "[-64]% Food is carried over after population increases [in all cities]",
+              "[-64]% Food is carried over after population increases [in all cities]",  "Provides [8] [Knockoff Kung Brand Sportswear]",
 "[Scout] units gain the [Enfranchised] promotion", "[Gunpowder] units gain the [Enfranchised] promotion", "[Sword] units gain the [Enfranchised] promotion" 
           ],  
           "allyBonusUniques": [   
@@ -44,7 +44,7 @@
               "Resting point for Influence with City-States is increased by [-16]",
                "[+168]% Production when constructing [Sword] units [in all cities] <when at war>", "[+168]% Production when constructing [Gunpowder] units [in all cities] <when at war>"
               "[+64]% Unhappiness from [Population] [in all cities] <when at peace>",
-              "[+16 Happiness] <when at war>"
+              "[+16 Happiness] <when at war>", "Provides [24] [Knockoff Kung Brand Sportswear]",
               "[-104]% Food is carried over after population increases [in all cities]", "[Scout] units gain the [Enfranchised] promotion", "[Gunpowder] units gain the [Enfranchised] promotion", "[Sword] units gain the [Enfranchised] promotion"],  
           "color": [232, 24, 0]  
       }, 
@@ -52,11 +52,11 @@
           "name": "Joyful",  
           "friendBonusUniques": [   
               "Resting point for Influence with City-States is increased by [-4]",
-          "Provides [2] [Joy]"
+          "Provides [3] [Joy]"
           ],  
           "allyBonusUniques": [ "[+2 Science]",  
               "Resting point for Influence with City-States is increased by [-8]",
-          "Provides [6] [Joy]"],  
+          "Provides [7] [Joy]"],  
           "color": [80, 250, 240]  
       }, 
  ]
