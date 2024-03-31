@@ -3,11 +3,37 @@
 {
 		"name": "Kinda Cool Stuff We Found In The Trash",
 		"resourceType": "Luxury",
-		"production": -1,
+		"Happiness": -1,
 		
 		"civilopediaText": [
 			{
 				"text": "Life is trash.",
+"size": 21,
+ "centered": true,
+			}
+		]
+},
+	{
+		"name": "Joy",
+		"resourceType": "Strategic",
+		"Happiness": +4,
+		"culture": -1,
+		
+		"civilopediaText": [
+			{
+				"text": "Makes you feel nothing.",
+"size": 21,
+ "centered": true,
+			}
+		]
+},
+	{
+		"name": "Knockoff Kung Brand Sportswear",
+		"resourceType": "Strategic",
+		
+		"civilopediaText": [
+			{
+				"text": "Kung only ever copied King! But the jerseys, never had an original!",
 "size": 21,
  "centered": true,
 			}
