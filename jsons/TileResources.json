@@ -16,7 +16,7 @@
 	{
 		"name": "Joy",
 		"resourceType": "Strategic",
-		"Happiness": +4,
+		"Happiness": 4,
 		"culture": -1,
 		
 		"civilopediaText": [
