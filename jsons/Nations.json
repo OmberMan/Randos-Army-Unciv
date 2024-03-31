@@ -29,7 +29,7 @@
 	{
 		"name": "Garbage Island",
 		"adjective": ["Trash"],
-		"cityStateType": "Garbage-type",
+		"cityStateType": "Despondent",
   "uniques": ["[+1 Production] <in cities with at least [1] [unemployed]>", 
 "[+1 Production, +1 Faith] <in cities with at least [2] [unemployed]>",
 "[+1 Production, +1 Faith] <in cities with at least [3] [unemployed]>",
@@ -48,7 +48,7 @@
 		{
 		"name": "Enfranchised Downtown",
 		"adjective": ["Infinitized"],
-		"cityStateType": "Enfranchised-type",
+		"cityStateType": "Enfranchised",
   "uniques": ["[-1 Food] per [2] population [In all cities]", "[-272]% Food is carried over after population increases [in all cities]", "[-88]% Production when constructing [All] buildings [in all cities]", "[+88]% Production when constructing [Miltary] units [in all cities]", "[-88]% Production when constructing [Civilian] units [in all cities]", "[-88]% Culture cost of natural border growth [in all cities]", "[-40]% [Science]", "[-40]% Culture", "All newly-trained [Land] units [in all cities] receive the [Jerseyhead] promotion", "Enemy [Land] units must spend [+1] extra movement points when inside your territory", "[-104]% maintenance costs", "[-104]% maintenance cost for buildings [in all cities]", "New [Land] units start with [88] Experience [in all cities]", "Free [Jerseyhead] appears <upon turn end>", "Free [No one in particular] appears <every [24] turns>", "[+88] Unit Supply"],
   "style": "Barbarians",
 		"declaringWar": "   It was a corporate descision.\n Catharsis, omniscience, perpetuety.\nEvery kill is a step closer to infinity.",
@@ -61,7 +61,7 @@
 	{
 		"name": "Buzzo's Gang",
 		"adjective": ["Joy"],
-		"cityStateType": "Overjoyed-type",
+		"cityStateType": "Joyful",
   "uniques": ["Gain a free [Joy Lab] [in all cities]", "Free [Joy Boy] appears <every [4] turns>", "Free [Joy Division] appears <every [12] turns>", "[-75]% growth [in all cities]", "Nullifies [Happiness] [in all cities]"],
   "style": "Barbarians",
 		"declaringWar": "...I got the Joy, Joy, Joy, Joy down in my heart, down in my heart. Down in my heart... I got the Joy, Joy, Joy, Joy, dooown innnn my heart! Down in my heaart tooodaay! Joy... Down in my heart...",
