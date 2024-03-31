@@ -1,6 +1,6 @@
 [  
         {  
-          "name": "Garbage-type",  
+          "name": "Despondent",  
           "friendBonusUniques": [  
               "[+14]% Food is carried over after population increases [in all non-occupied cities] <starting from the [Medieval era]> <before the [Industrial era]>",  
               "[+21]% Food is carried over after population increases [in all non-occupied cities] <starting from the [Industrial era]>",  
@@ -28,7 +28,7 @@
           "color": [186, 255, 128]  
       },  
         {  
-          "name": "Enfranchised-type",  
+          "name": "Enfranchised",  
           "friendBonusUniques": [  
               "[-4 Food] per [16] population [in all cities]",  
               "Resting point for Influence with City-States is increased by [-8]",
@@ -49,12 +49,12 @@
           "color": [232, 24, 0]  
       }, 
 {  
-          "name": "Overjoyed-type",  
+          "name": "Joyful",  
           "friendBonusUniques": [   
               "Resting point for Influence with City-States is increased by [-4]",
           "Provides [2] [Joy]"
           ],  
-          "allyBonusUniques": [ "[+3 Science]",  
+          "allyBonusUniques": [ "[+2 Science]",  
               "Resting point for Influence with City-States is increased by [-8]",
           "Provides [6] [Joy]"],  
           "color": [80, 250, 240]  
