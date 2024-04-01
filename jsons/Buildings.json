@@ -10,7 +10,7 @@
 		    "requiredTech": "Calendar",
     },
     {
-        "name": "Ramshackle Jersey Store",
+        "name": "Ramshackle Jersey 'Store'",
 	    "cost": 15,
         "requiredResource": ["Knockoff Kung Brand Sportswear"],
 		    "hurryCostModifier": 88,
