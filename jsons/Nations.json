@@ -39,6 +39,7 @@
  "[+100]% Food is carried over after population increases [in all non-occupied cities]", "[-66]% [Science] [in all non-occupied cities]", "[-66]% Yield from every [Building]", "Nullifies [Happiness] [in all non-occupied cities]", "[-100]% maintenance cost for buildings [in all non-occupied cities]", "[-100]% Great Person generation [in all non-occupied cities]", "[+1 Production, +1 Gold] from all [Building] buildings", "[-50]% Production when constructing [Military] units [cityFilter]", " All newly-trained [All] units [cityFilter] receive the [Garbage Insanity] promotion"],
   "style": "Barbarians",
 		"declaringWar": "Do you Trash?",
+		        "leaderName": "Body Bag Mystic",
 		"attacked": "You just won't listen to reason...",
 		"defeated": "The Communion of Cellophane prepared us for this. We all end up in the trash bag eventually. Don't you want to be ready for it?",
 		"outerColor": [0, 0, 0],
@@ -48,6 +49,7 @@
 		{
 		"name": "Enfranchised Downtown",
 		"adjective": ["Infinitized"],
+			        "leaderName": "Burger Place",
 		"cityStateType": "Enfranchised",
   "uniques": ["[-1 Food] per [2] population [In all cities]", "[-272]% Food is carried over after population increases [in all cities]", "[-88]% Production when constructing [All] buildings [in all cities]", "[+88]% Production when constructing [Miltary] units [in all cities]", "[-88]% Production when constructing [Civilian] units [in all cities]", "[-88]% Culture cost of natural border growth [in all cities]", "[-40]% [Science]", "[-40]% Culture", "All newly-trained [Land] units [in all cities] receive the [Jerseyhead] promotion", "Enemy [Land] units must spend [+1] extra movement points when inside your territory", "[-104]% maintenance costs", "[-104]% maintenance cost for buildings [in all cities]", "New [Land] units start with [88] Experience [in all cities]", "Free [Jerseyhead] appears <upon turn end>", "Free [Stefan Kindchild] appears <every [24] turns>", "Free [No one in particular] appears <every [24] turns>", "[+88] Unit Supply"],
   "style": "Barbarians",
@@ -61,6 +63,7 @@
 	{
 		"name": "Buzzo's Gang",
 		"adjective": ["Joy"],
+		        "leaderName": "Neil Down",
 		"cityStateType": "Joyful",
   "uniques": ["Gain a free [Joy Lab] [in all cities]", "Free [Joy Boy] appears <every [4] turns>", "Free [Joy Division] appears <every [12] turns>", "[-75]% growth [in all cities]", "Nullifies [Happiness] [in all cities]"],
   "style": "Barbarians",
