@@ -5,7 +5,7 @@
 		    "production": -1,
 		    "maintenance": 1,
 		    "hurryCostModifier": 0,
-		    "uniques": ["Consumes [1] [Joy]", "[-50]% [Production] [in this city] <when below [1] [Joy]>", "[2] free [Joy Boy] units appear", "[1] free [Joy Division] units appear", "[+200]% [Unhappiness] [in this city] <when below [1] [Joy]>", "[-5]% growth [in all cities] <when above [1] [Joy]>", "Unsellable", "[-10]% [Culture] [in this city]", "[-50]% growth [in this city] <when above [1] [Joy]>", "Nullifies [Unhappiness] [in this city] <when above [1] [Joy]>", "All newly-trained [Land] units [in this city] receive the [Overjoyed] promotion <when above [1] [Joy]>", "Destroyed when the city is captured"],        
+		    "uniques": ["Consumes [1] [Joy]", "[-50]% [Production] [in this city] <when below [1] [Joy]>", "[2] free [Joy Boy] units appear", "[1] free [Joy Division] units appear", "[-100]% [Happiness] [in this city] <when below [1] [Joy]>", "[+100]% Unhappiness from [Population] [in this city] <when below [1] [Joy]>", "[-5]% growth [in all cities] <when above [1] [Joy]>", "Unsellable", "[-10]% [Culture] [in this city]", "[-50]% growth [in this city] <when above [1] [Joy]>", "Nullifies [Happiness] [in this city] <when above [1] [Joy]>", "All newly-trained [Land] units [in this city] receive the [Overjoyed] promotion <when above [1] [Joy]>", "Destroyed when the city is captured"],        
 		    "requiredTech": "Calendar",
     },
     {
