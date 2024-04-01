@@ -1,0 +1,424 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/No one in particular
+  rotate: false
+  xy: 4, 4
+  size: 1125, 1118
+  orig: 1125, 1118
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+LeaderIcons/Rando
+  rotate: false
+  xy: 1620, 784
+  size: 420, 420
+  orig: 420, 420
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/3rd Fold
+  rotate: false
+  xy: 1620, 401
+  size: 375, 375
+  orig: 375, 375
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/4th Fold
+  rotate: false
+  xy: 1012, 132
+  size: 464, 464
+  orig: 464, 464
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/5th Fold
+  rotate: false
+  xy: 1012, 604
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/6th Fold
+  rotate: false
+  xy: 1012, 1212
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/7th Fold
+  rotate: false
+  xy: 4, 1012
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/8th Fold
+  rotate: false
+  xy: 4, 4
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Garbage Insanity
+  rotate: false
+  xy: 1484, 53
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+
+game3.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+CityStateIcons/Despondent
+  rotate: false
+  xy: 1956, 436
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+CityStateIcons/Garbage Type
+  rotate: false
+  xy: 1956, 436
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+CityStateIcons/Enfranchised
+  rotate: false
+  xy: 1236, 260
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+NationIcons/Enfranchised Downtown
+  rotate: false
+  xy: 1236, 260
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+CityStateIcons/Enfranchised-type
+  rotate: false
+  xy: 1484, 360
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+CityStateIcons/Joyful
+  rotate: false
+  xy: 1848, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Body Bag Mystic
+  rotate: false
+  xy: 620, 200
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+LeaderIcons/Burger Place
+  rotate: false
+  xy: 928, 200
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+LeaderIcons/Neil Down
+  rotate: false
+  xy: 490, 92
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Buzzo's Gang
+  rotate: false
+  xy: 274, 92
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Garbage Island
+  rotate: false
+  xy: 160, 86
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+NationIcons/Rando's Army
+  rotate: false
+  xy: 922, 92
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Joy
+  rotate: false
+  xy: 1740, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Joy
+  rotate: false
+  xy: 1740, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Overjoyed
+  rotate: false
+  xy: 1740, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Beady
+  rotate: false
+  xy: 1632, 360
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Cooper
+  rotate: false
+  xy: 4, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Doctor
+  rotate: false
+  xy: 1236, 208
+  size: 126, 44
+  orig: 126, 44
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Jerseyhead
+  rotate: false
+  xy: 160, 46
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Joy Boy
+  rotate: false
+  xy: 1240, 96
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Joy Division
+  rotate: false
+  xy: 1370, 220
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/No one in particular
+  rotate: false
+  xy: 1672, 360
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Peter
+  rotate: false
+  xy: 598, 92
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rando
+  rotate: false
+  xy: 1636, 320
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rando Rig
+  rotate: false
+  xy: 44, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Stefan Kindchild
+  rotate: false
+  xy: 200, 46
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Jerseyhead
+  rotate: false
+  xy: 1564, 288
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Joy Boy
+  rotate: false
+  xy: 1484, 280
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/No one in particular
+  rotate: false
+  xy: 1312, 136
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Rando Rig
+  rotate: false
+  xy: 4, 44
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+UnitIcons/Beady
+  rotate: false
+  xy: 1632, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Bobo
+  rotate: false
+  xy: 1632, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Cooper
+  rotate: false
+  xy: 1632, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Doctor
+  rotate: false
+  xy: 1632, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Peter
+  rotate: false
+  xy: 1632, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Joy Boy
+  rotate: false
+  xy: 382, 92
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Joy Lab
+  rotate: false
+  xy: 382, 92
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Joy Division
+  rotate: false
+  xy: 382, 92
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/No on in particular
+  rotate: false
+  xy: 1240, 136
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitIcons/Stefan Kindchild
+  rotate: false
+  xy: 1240, 136
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitIcons/Rando
+  rotate: false
+  xy: 706, 92
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rando Rig
+  rotate: false
+  xy: 814, 92
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/1st Fold
+  rotate: false
+  xy: 4, 200
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/2nd Fold
+  rotate: false
+  xy: 312, 200
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Enfranchised
+  rotate: false
+  xy: 1030, 86
+  size: 97, 106
+  orig: 97, 106
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ramshackle Jersey 'Store'
+  rotate: false
+  xy: 1030, 86
+  size: 97, 106
+  orig: 97, 106
+  offset: 0, 0
+  index: -1
+ResourceIcons/Knockoff Kung Brand Sportswear
+  rotate: false
+  xy: 1030, 86
+  size: 97, 106
+  orig: 97, 106
+  offset: 0, 0
+  index: -1
+UnitIcons/Jerseyhead
+  rotate: false
+  xy: 1030, 86
+  size: 97, 106
+  orig: 97, 106
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Jerseyhead
+  rotate: false
+  xy: 1135, 86
+  size: 97, 106
+  orig: 97, 106
+  offset: 0, 0
+  index: -1
