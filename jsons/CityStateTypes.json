@@ -24,7 +24,7 @@
 "[+1 Production, +4 Happiness, +3 Faith] <in cities with at least [5] [unemployed]>",
 "[+1 Production, +5 Happiness, +4 Faith] <in cities with at least [6] [unemployed]>"
             "[-1 Production, +2 Faith, +2 Happiness, +1 Gold] from all [Production] buildings <in cities with at least [2] [Unemployed]>", 
-            "Provides [3] [Kinda Cool Stuff We Found In The Trash]", "[Scout] units gain the [Garbage Insanity] promotion"],  
+            "Provides [3] [Kinda Cool Stuff We Found In The Trash]", "[Sword] units gain the [Garbage Insanity] promotion", "[Scout] units gain the [Garbage Insanity] promotion", "[Gunpowder] units gain the [Garbage Insanity] promotion"],  
           "color": [186, 255, 128]  
       },  
         {  
