@@ -102,4 +102,19 @@
                 "innerColor": [90, 20, 250],
                 "cities": ["Pacifist Village", "Happy Happy Village"]
         },
+ {
+                "name": "Gale Motorcycle Club",
+                "adjective": ["Broncobuster"],
+                        "leaderName": "Rex Thunderstorm",
+                "cityStateType": "Roving",
+  "uniques": ["[-100]% Strength <when attacking>", "[-90]% Unhappiness from [Population] [in all non-occupied cities] <when not at war>", "[+1 Happiness] from [Improvement] tiles [in all non-occupied cities] <when not at war>", "[+10]% [Culture] [non-[Garrisoned]] <when not at war>", "[+1 Culture] from all [Faith] buildings <when not at war>"],
+  "style": "East Asian",
+                "declaringWar": "You side with a man, you stay with him. Can't do that, you're a fucking animal - you're finished. That's all there is to it.",
+                "attacked": "...",
+                "defeated": "...",
+                "outerColor": [0, 0, 0],
+                "innerColor": [90, 20, 250],
+                "cities": ["Pacifist Village", "Happy Happy Village"]
+        },
 ]
+
