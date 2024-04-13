@@ -50,7 +50,7 @@
 		"name": "Bloodmoon Tribe",
 		"adjective": ["Bloodiest"],
 		"cityStateType": "Preservationist",
-  "uniques": ["[+1 Production, +1 Culture, +1 Happiness] from [Forest] tiles without [Improvement] [in all cities]", "Damage is ignored when determining unit Strength <in friendly territory", "New [baseUnitFilter] units start with [50] Experience [in all cities]", " All newly-trained [baseUnitFilter] units [cityFilter] receive the [promotion] promotion" ],
+  "uniques": ["[+1 Production, +1 Culture, +1 Happiness, +1 Faith] from [Forest] tiles without [Improvement] [in all cities]", "Damage is ignored when determining unit Strength <in [Friendly Land] tiles>", "New [Scout] units start with [50] Experience [in all cities]", "Free [Scout] appears <upon constructing [Building]>", "All newly-trained [Melee] units [in all cities] receive the [Hinmatóowyalahtq̓it's Scout] promotion"],
   "style": "North American",
 		"declaringWar": "I never truly guarded this place. Here I live in damnation for my gluttony and sloth, drenched in the blood of those I failed. I cannot let that happen again. I cannot bear it.",
 		        "leaderName": "Bloodiest Wolf",
