@@ -69,3 +69,10 @@
           "color": [180, 10, 10]
       }
  ]
+{  
+          "name": "Beautiful",  
+          "friendBonusUniques": [   
+              "[-20]% Unhappiness from [Population] [in all non-occupied cities] <when not at war>", "[+10]% [Culture] [non-[Garrisoned]] <when not at war>"],  
+          "allyBonusUniques": ["[-40]% Unhappiness from [Population] [in all non-occupied cities] <when not at war>", "[+1 Happiness] from [Improvement] tiles [in all non-occupied cities] <when not at war>", "[+10]% [Culture] [non-[Garrisoned]] <when not at war>"],  
+          "color": [90, 20, 250]
+      }
