@@ -111,10 +111,10 @@
   "style": "East Asian",
                 "declaringWar": "You side with a man, you stay with him. Can't do that, you're a fucking animal - you're finished. That's all there is to it.",
                 "attacked": "...",
-                "defeated": "                                "text": "A vaquero never expects to die in a bed. \nAll he wants is a place to come home to... just someone to come back to after his journeys...",
+                "defeated": "A vaquero never expects to die in a bed. \nAll he wants is a place to come home to... just someone to come back to after his journeys...",
                 "outerColor": [0, 0, 0],
                 "innerColor": [90, 20, 250],
-                "cities": ["The Thunderdome", "Zaiba"]
+                "cities": ["The Thunderdome", "Sabazian Fields"]
         },
 ]
 
