@@ -59,4 +59,13 @@
           "Provides [7] [Joy]"],  
           "color": [80, 250, 240]  
       }, 
+{  
+          "name": "Preservationist",  
+          "friendBonusUniques": [   
+              "[+1 Production, +1 Culture] from [Forest] tiles without [Improvement] [in all cities]", "[+2 Culture, +1 Happiness] from [Natural Wonder] tiles [in all cities]", "Reveal up to [all] [Forest] within a [5] tile radius <upon discovering a Natural Wonder>", "All newly-trained [Scout] units [in all cities] receive the [Hinmatóowyalahtq̓it's Scout] promotion"
+          ],  
+          "allyBonusUniques": ["[+2 Production, +2 Culture, +1 Faith] from [Forest] tiles without [Improvement] [in all cities]", "[+4 Culture, +2 Happiness] from [Natural Wonder] tiles [in all cities]", "Reveal up to [all] [Forest] within a [5] tile radius <upon discovering a Natural Wonder>", "All newly-trained [Scout] units [in all cities] receive the [Hinmatóowyalahtq̓it's Scout] promotion", "All newly-trained [Sword] units [in all cities] receive the [Hinmatóowyalahtq̓it's Scout] promotion"
+"All newly-trained [Gunpowder] units [in all cities] receive the [Hinmatóowyalahtq̓it's Scout] promotion"],  
+          "color": [180, 10, 10]" 
+      }
  ]
