@@ -151,4 +151,8 @@
     { "text": "'In the desert \nI saw a creature, \nnaked, bestial, \nWho, squatting upon the ground, \nHeld his heart in his hands, \nAnd ate of it. \nI said, 'Is it good, friend?' \n'It is \nbitter—bitter,' he answered; \n'But I like it \nBecause it is bitter, \nAnd because it is my heart.''" },
 ]
 },
+{
+		"name": "Hinmatóowyalahtq̓it's Scout",
+		"uniques": ["[+50]% Strength <when defending> <when fighting in [Forest] tiles>", "[+25]% XP gained from combat", "Can see invisible [All] units"]
+}
 ]
