@@ -88,4 +88,18 @@
 		"innerColor": [80, 250, 240],
 		"cities": ["Abandoned Warehouse", "I've been waiting for a guide to come and take me by the hand."]
 	},
+        {
+                "name": "Purple People",
+                "adjective": ["Non-Cult-Affiliated"],
+                        "leaderName": "Mr Beautiful",
+                "cityStateType": "Beautiful",
+  "uniques": ["[-100]% Strength <when attacking>", "[-90]% Unhappiness from [Population] [in all non-occupied cities] <when not at war>", "[+1 Happiness] from [Improvement] tiles [in all non-occupied cities] <when not at war>", "[+10]% [Culture] [non-[Garrisoned]] <when not at war>", "[+1 Culture] from all [Faith] buildings <when not at war>"],
+  "style": "East Asian",
+                "declaringWar": "...I got the Joy, Joy, Joy, Joy down in my heart, down in my heart. Down in my heart... I got the Joy, Joy, Joy, Joy, dooown innnn my heart! Down in my heaart tooodaay! Joy... Down in my heart...",
+                "attacked": "...That was really dumb.",
+                "defeated": "Remember to take care of yourself. I'll check up on you soon.",
+                "outerColor": [0, 0, 0],
+                "innerColor": [80, 250, 240],
+                "cities": ["Abandoned Warehouse", "I've been waiting for a guide to come and take me by the hand."]
+        },
 ]
