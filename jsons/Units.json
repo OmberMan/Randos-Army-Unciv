@@ -4,7 +4,7 @@
     "unitType": "Civilian",
     "uniqueTo": "Rando's Army",
     "replaces": "Great General",
-    "attackSound": "fire",
+    "attackSound": "torpedo",
     "uniques": ["[+25]% Strength bonus for [Land] units within [2] tiles", "[-10]% Strength for enemy [Land] units in adjacent [All] tiles", "Damage is ignored when determining unit Strength", "[1] Sight", "[+33]% Strength <after discovering [Chemistry]>", "[+25]% Strength <vs [Melee] units>",
       "Unable to capture cities", "Great Person - [War]", "Unbuildable", "Uncapturable", "Limited to [1] per Civilization"],
     "movement": 2,
@@ -33,7 +33,7 @@
   "strength": 10,
   "cost": 80,
   "requiredTech": "Bronze Working",
-  "attackSound": "joy",
+  "attackSound": "Woo",
   "promotions": ["Drill I", "Overjoyed"],
   "uniques": ["Invisible to non-adjacent units", "May capture killed [Land] units <with [40]% chance>", "May withdraw before melee ([40]%)", "No movement cost to pillage", "Ignores Zone of Control"]
  },
@@ -46,7 +46,7 @@
   "rangedStrength": 12,
   "cost": 120,
   "requiredTech": "Iron Working",
-  "attackSound": "joy",
+  "attackSound": "wallys",
   "promotions": ["Barrage I", "Overjoyed"],
   "uniques": ["May withdraw before melee ([40]%)", "No movement cost to pillage", "Ignores Zone of Control"]
  },
@@ -58,7 +58,7 @@
   "cost": 400,
   "uniqueTo": "Barbarians",
   "requiredTech": "Bronze Working",
-  "attackSound": "notfair",
+  "attackSound": "Screm",
   "uniques": ["[+20]% Strength <with [40]% chance> <when attacking>", "[+1] additional attacks per turn", "May withdraw before melee ([40]%)", "Ignores terrain cost", "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", "No Sight", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable",  "[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "Destroys tile improvements when attacking", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles", "[+1] Movement <in [Hill] tiles>"]
  },
 {
@@ -69,7 +69,7 @@
   "strength": 28,
   "cost": 400,
   "requiredTech": "Bronze Working",
-  "attackSound": "notfair",
+  "attackSound": "Screm",
   "uniques": ["[-20]% Strength <when defending>", "[+30]% Strength <when [Wounded]>", "[+2] additional attacks per turn <when [Wounded]>", "[+2] Movement <when [Wounded]>", "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", "No Sight", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable", "[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "Destroys tile improvements when attacking", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles"]
  },
 {
@@ -91,7 +91,7 @@
   "strength": 25,
   "cost": 350,
   "requiredTech": "Bronze Working",
-  "attackSound": "notfair",
+  "attackSound": "Screm",
   "uniques": ["Unit will heal every turn, even if it performs an action", "[+1] additional attacks per turn", "[+15] HP when healing", "No Sight", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "Heal this unit by [5] HP <upon defeating a [Land] unit>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable", "[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "Destroys tile improvements when attacking", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles"]
 },
 {
@@ -121,7 +121,7 @@
   "strength": 11,
   "cost": 168,
   "requiredTech": "Engineering",
-  "attackSound": "sameoldmeat",
+  "attackSound": "meats",
   "promotions": ["Jerseyhead","1st Fold", "2nd Fold", "3rd Fold"],
   "uniques": ["[-16]% Strength <when defending> <vs [Ranged] units>", "[+1] Movement <when above [40] HP>", "Self-destructs when attacking <when below [24] HP>", "[+16]% Strength <when defending> <vs [Melee] units> <when below [41] HP>", "[+10]% Strength bonus for [Jerseyhead] units within [3] tiles",  "Must set up to ranged attack <when above [40] HP>", "Rough terrain penalty",
   "[+24]% Strength <starting from the [Classical era]>", 
