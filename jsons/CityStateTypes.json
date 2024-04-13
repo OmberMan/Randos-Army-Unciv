@@ -67,8 +67,7 @@
           "allyBonusUniques": ["[+2 Production, +2 Culture, +1 Faith] from [Forest] tiles without [Improvement] [in all cities]", "[+4 Culture, +2 Happiness] from [Natural Wonder] tiles [in all cities]", "Reveal up to [all] [Forest] within a [5] tile radius <upon discovering a Natural Wonder>", "All newly-trained [Scout] units [in all cities] receive the [Hinmatóowyalahtq̓it's Scout] promotion", "All newly-trained [Sword] units [in all cities] receive the [Hinmatóowyalahtq̓it's Scout] promotion"
 "All newly-trained [Gunpowder] units [in all cities] receive the [Hinmatóowyalahtq̓it's Scout] promotion"],  
           "color": [180, 10, 10]
-      }
- ]
+      },
 {  
           "name": "Beautiful",  
           "friendBonusUniques": [   
@@ -76,3 +75,4 @@
           "allyBonusUniques": ["[-40]% Unhappiness from [Population] [in all non-occupied cities] <when not at war>", "[+1 Happiness] from [Improvement] tiles [in all non-occupied cities] <when not at war>", "[+10]% [Culture] [non-[Garrisoned]] <when not at war>"],  
           "color": [90, 20, 250]
       }
+]
