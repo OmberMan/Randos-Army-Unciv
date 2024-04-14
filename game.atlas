@@ -1,0 +1,933 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Bloodmoon Tribe
+  rotate: false
+  xy: 4, 4
+  size: 1660, 1660
+  orig: 1660, 1660
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/No one in particular
+  rotate: false
+  xy: 4, 4
+  size: 1125, 1118
+  orig: 1125, 1118
+  offset: 0, 0
+  index: -1
+
+game3.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+LeaderIcons/Mithridates IV
+  rotate: false
+  xy: 1012, 1134
+  size: 878, 878
+  orig: 878, 878
+  offset: 0, 0
+  index: -1
+LeaderIcons/Mithridates VI
+  rotate: false
+  xy: 1012, 296
+  size: 830, 830
+  orig: 830, 830
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/7th Fold
+  rotate: false
+  xy: 4, 1012
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/8th Fold
+  rotate: false
+  xy: 4, 4
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+
+game4.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+CityStateIcons/Preservationist
+  rotate: false
+  xy: 812, 612
+  size: 663, 663
+  orig: 663, 663
+  offset: 0, 0
+  index: -1
+LeaderIcons/Casca IV
+  rotate: false
+  xy: 812, 1283
+  size: 731, 731
+  orig: 731, 731
+  offset: 0, 0
+  index: -1
+LeaderIcons/Cypselus
+  rotate: false
+  xy: 812, 1283
+  size: 731, 731
+  orig: 731, 731
+  offset: 0, 0
+  index: -1
+LeaderIcons/Epaminondas
+  rotate: false
+  xy: 1378, 19
+  size: 585, 585
+  orig: 585, 585
+  offset: 0, 0
+  index: -1
+LeaderIcons/Flilippo Tommato Marinetti
+  rotate: false
+  xy: 4, 448
+  size: 758, 758
+  orig: 758, 758
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/5th Fold
+  rotate: false
+  xy: 770, 4
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/6th Fold
+  rotate: false
+  xy: 4, 1214
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+
+game5.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Targaryen Keep
+  rotate: false
+  xy: 4, 998
+  size: 467, 467
+  orig: 467, 467
+  offset: 0, 0
+  index: -1
+BuildingIcons/Teatro de Pollentia # Virtyt # Timoría # Forza
+  rotate: false
+  xy: 1773, 665
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Beautiful
+  rotate: false
+  xy: 1876, 1361
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+CityStateIcons/Despondent
+  rotate: false
+  xy: 1152, 1088
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+CityStateIcons/Garbage Type
+  rotate: false
+  xy: 1152, 1088
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+CityStateIcons/Enfranchised
+  rotate: false
+  xy: 1260, 1064
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+CityStateIcons/Exceptionalist
+  rotate: false
+  xy: 1773, 773
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Exeptionalist
+  rotate: false
+  xy: 1261, 568
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Histrionic
+  rotate: false
+  xy: 1822, 1141
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+CityStateIcons/Joyful
+  rotate: false
+  xy: 354, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Obstructive
+  rotate: false
+  xy: 678, 41
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Prejudiced
+  rotate: false
+  xy: 894, 81
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Extreme Prejudice Society
+  rotate: false
+  xy: 894, 81
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Roving
+  rotate: false
+  xy: 1392, 840
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+LeaderIcons/Body Bag Mystic
+  rotate: false
+  xy: 1568, 1357
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+LeaderIcons/Burger Place
+  rotate: false
+  xy: 772, 189
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+LeaderIcons/Charibael
+  rotate: false
+  xy: 4, 1473
+  size: 567, 567
+  orig: 567, 567
+  offset: 0, 0
+  index: -1
+LeaderIcons/Croesus
+  rotate: false
+  xy: 818, 534
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+LeaderIcons/Indibillis
+  rotate: false
+  xy: 1876, 1475
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+LeaderIcons/Leonidas
+  rotate: false
+  xy: 837, 888
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+LeaderIcons/Mausoleus
+  rotate: false
+  xy: 4, 112
+  size: 412, 412
+  orig: 412, 412
+  offset: 0, 0
+  index: -1
+LeaderIcons/Midas
+  rotate: false
+  xy: 4, 532
+  size: 458, 458
+  orig: 458, 458
+  offset: 0, 0
+  index: -1
+LeaderIcons/Mr Beautiful
+  rotate: false
+  xy: 1152, 824
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+LeaderIcons/Neil Down
+  rotate: false
+  xy: 570, 41
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Nicomedes IV
+  rotate: false
+  xy: 1876, 1595
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+LeaderIcons/Pericles
+  rotate: false
+  xy: 479, 1374
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+LeaderIcons/Rando
+  rotate: false
+  xy: 1051, 1620
+  size: 420, 420
+  orig: 420, 420
+  offset: 0, 0
+  index: -1
+LeaderIcons/Rex Thunderstorm
+  rotate: false
+  xy: 1616, 881
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+LeaderIcons/Tarasicodissa
+  rotate: false
+  xy: 1862, 1874
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+LeaderIcons/Tetua
+  rotate: false
+  xy: 424, 149
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+LeaderIcons/The Bloodiest Wolf
+  rotate: false
+  xy: 1568, 1103
+  size: 246, 246
+  orig: 246, 246
+  offset: 0, 0
+  index: -1
+LeaderIcons/Viriathus
+  rotate: false
+  xy: 1409, 698
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+NationIcons/Arstotzka
+  rotate: false
+  xy: 479, 845
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+CityStateIcons/Autarkic
+  rotate: false
+  xy: 479, 845
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+NationIcons/Buzzo's Gang
+  rotate: false
+  xy: 1665, 773
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Enfranchised Downtown
+  rotate: false
+  xy: 1261, 676
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+CityStateIcons/Enfranchised-type
+  rotate: false
+  xy: 1261, 676
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+NationIcons/Gale Motorcycle Club
+  rotate: false
+  xy: 1881, 821
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rough Rider
+  rotate: false
+  xy: 1881, 821
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Garbage Island
+  rotate: false
+  xy: 1551, 726
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+NationIcons/Neon Flamingos
+  rotate: false
+  xy: 837, 672
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+NationIcons/Purple People
+  rotate: false
+  xy: 579, 1203
+  size: 365, 365
+  orig: 365, 365
+  offset: 0, 0
+  index: -1
+NationIcons/Rando's Army
+  rotate: false
+  xy: 1665, 665
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Night's Watch
+  rotate: false
+  xy: 1881, 605
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Joy
+  rotate: false
+  xy: 138, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Joy
+  rotate: false
+  xy: 138, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Overjoyed
+  rotate: false
+  xy: 138, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Auxiliary
+  rotate: false
+  xy: 1051, 1584
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Beady
+  rotate: false
+  xy: 1479, 1625
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bireme
+  rotate: false
+  xy: 1508, 1276
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Brave Companions
+  rotate: false
+  xy: 1053, 848
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Brotherless Bannerhood Bowman
+  rotate: false
+  xy: 952, 1228
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Clibanarii
+  rotate: false
+  xy: 1616, 841
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Cooper
+  rotate: false
+  xy: 1838, 889
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Crow
+  rotate: false
+  xy: 1989, 893
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Cur
+  rotate: false
+  xy: 4, 24
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Dismounted Stormbringer
+  rotate: false
+  xy: 786, 41
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Doctor
+  rotate: false
+  xy: 4, 60
+  size: 126, 44
+  orig: 126, 44
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Dragon Rider
+  rotate: false
+  xy: 1579, 614
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Dragonrider
+  rotate: false
+  xy: 1579, 614
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Druhizna
+  rotate: false
+  xy: 462, 5
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Falcon Knight
+  rotate: false
+  xy: 1519, 1625
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Goldcloak Cavalry
+  rotate: false
+  xy: 1508, 1236
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Goldcloak Pikeman
+  rotate: false
+  xy: 1093, 848
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Guru
+  rotate: false
+  xy: 818, 498
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Gyroblimp
+  rotate: false
+  xy: 992, 1228
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Heavy Chariot
+  rotate: false
+  xy: 1091, 1584
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Jerseyhead
+  rotate: false
+  xy: 1989, 853
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Joy Boy
+  rotate: false
+  xy: 826, 41
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Joy Division
+  rotate: false
+  xy: 1508, 1196
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Konnitsa
+  rotate: false
+  xy: 44, 24
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mamluk
+  rotate: false
+  xy: 1032, 1228
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Marches Skirmisher
+  rotate: false
+  xy: 1989, 813
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nim
+  rotate: false
+  xy: 502, 5
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/No one in particular
+  rotate: false
+  xy: 866, 41
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Orichalcos Swordsman
+  rotate: false
+  xy: 1508, 1156
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Orichalcos Swordsman-
+  rotate: false
+  xy: 1508, 1156
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Peter
+  rotate: false
+  xy: 786, 81
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rando
+  rotate: false
+  xy: 1072, 1228
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rando Rig
+  rotate: false
+  xy: 1112, 1228
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rough Rider
+  rotate: false
+  xy: 1989, 773
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sabum Kibittum
+  rotate: false
+  xy: 906, 41
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sofa
+  rotate: false
+  xy: 858, 498
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spear Thrower
+  rotate: false
+  xy: 1131, 1584
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Stefan Kindchild
+  rotate: false
+  xy: 1508, 1116
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Thrall
+  rotate: false
+  xy: 1989, 733
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Jerseyhead
+  rotate: false
+  xy: 479, 1302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Joy Boy
+  rotate: false
+  xy: 956, 592
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/No one in particular
+  rotate: false
+  xy: 956, 520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Rando Rig
+  rotate: false
+  xy: 1862, 1718
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+UnitIcons/Beady
+  rotate: false
+  xy: 1152, 1160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Bobo
+  rotate: false
+  xy: 1152, 1160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Cooper
+  rotate: false
+  xy: 1152, 1160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Doctor
+  rotate: false
+  xy: 1152, 1160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Peter
+  rotate: false
+  xy: 1152, 1160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Joy Boy
+  rotate: false
+  xy: 246, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Joy Lab
+  rotate: false
+  xy: 246, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Joy Division
+  rotate: false
+  xy: 246, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mammoth Rider
+  rotate: false
+  xy: 462, 41
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/No on in particular
+  rotate: false
+  xy: 479, 1230
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitIcons/Stefan Kindchild
+  rotate: false
+  xy: 479, 1230
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitIcons/Orichalcos Swordsman
+  rotate: false
+  xy: 1053, 616
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Rando
+  rotate: false
+  xy: 1002, 81
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rando Rig
+  rotate: false
+  xy: 1881, 713
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Young Dragon
+  rotate: false
+  xy: 1838, 929
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+UnitIcons/Ésçquadrone Avanzato
+  rotate: false
+  xy: 1579, 654
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/1st Fold
+  rotate: false
+  xy: 952, 1268
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/2nd Fold
+  rotate: false
+  xy: 1260, 1312
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/3rd Fold
+  rotate: false
+  xy: 1479, 1665
+  size: 375, 375
+  orig: 375, 375
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/4th Fold
+  rotate: false
+  xy: 579, 1576
+  size: 464, 464
+  orig: 464, 464
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Enfranchised
+  rotate: false
+  xy: 1369, 562
+  size: 97, 106
+  orig: 97, 106
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ramshackle Jersey 'Store'
+  rotate: false
+  xy: 1369, 562
+  size: 97, 106
+  orig: 97, 106
+  offset: 0, 0
+  index: -1
+ResourceIcons/Knockoff Kung Brand Sportswear
+  rotate: false
+  xy: 1369, 562
+  size: 97, 106
+  orig: 97, 106
+  offset: 0, 0
+  index: -1
+UnitIcons/Jerseyhead
+  rotate: false
+  xy: 1369, 562
+  size: 97, 106
+  orig: 97, 106
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Garbage Insanity
+  rotate: false
+  xy: 470, 497
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Jerseyhead
+  rotate: false
+  xy: 1474, 584
+  size: 97, 106
+  orig: 97, 106
+  offset: 0, 0
+  index: -1
