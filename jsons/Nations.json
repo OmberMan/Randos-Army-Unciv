@@ -113,7 +113,7 @@
                 "attacked": "...",
                 "defeated": "A vaquero never expects to die in a bed. \nAll he wants is a place to come home to... just someone to come back to after his journeys...",
                 "outerColor": [0, 0, 0],
-                "innerColor": [90, 20, 250],
+                "innerColor": [210, 175, 25],
                 "cities": ["The Thunderdome", "Sabazian Fields"]
         },
 ]
