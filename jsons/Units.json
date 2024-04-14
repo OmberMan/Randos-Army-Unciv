@@ -29,7 +29,7 @@
   "name": "Rough Rider",
   "unitType": "Armor",
   "uniqueTo": "Rando's Army",
-  "replaces": "Landship",
+  "replaces": "Trebuchet",
   "movement": 5,
   "strength": 16,
   "cost": 210,
@@ -68,13 +68,13 @@
 {
   "name": "Peter",
   "unitType": "Mounted",
-  "movement": 3,
+  "movement": 2,
   "strength": 26,
   "cost": 400,
   "uniqueTo": "Barbarians",
   "requiredTech": "Bronze Working",
   "attackSound": "Screm",
-  "uniques": ["[+20]% Strength <with [40]% chance> <when attacking>", "[+1] additional attacks per turn", "May withdraw before melee ([40]%)", "Ignores terrain cost", "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", "No Sight", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable",  "[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "Destroys tile improvements when attacking", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles", "[+1] Movement <in [Hill] tiles>"]
+  "uniques": ["[+20]% Strength <with [40]% chance> <when attacking>", "[+1] additional attacks per turn", "May withdraw before melee ([40]%)", "Ignores terrain cost", "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", "No Sight", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable",  "[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles", "[+1] Movement <in [Hill] tiles>"]
  },
 {
   "name": "Cooper",
@@ -85,7 +85,7 @@
   "cost": 400,
   "requiredTech": "Bronze Working",
   "attackSound": "Screm",
-  "uniques": ["[-20]% Strength <when defending>", "[+30]% Strength <when [Wounded]>", "[+2] additional attacks per turn <when [Wounded]>", "[+2] Movement <when [Wounded]>", "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", "No Sight", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable", "[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "Destroys tile improvements when attacking", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles"]
+  "uniques": ["[-20]% Strength <when defending>", "[+30]% Strength <when [Wounded]>", "[+2] additional attacks per turn <when [Wounded]>", "[+2] Movement <when [Wounded]>", "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", "No Sight", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable", "[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles"]
  },
 {
   "name": "Beady",
@@ -96,7 +96,7 @@
   "cost": 400,
   "requiredTech": "Bronze Working",
   "attackSound": "notfair",
-  "uniques": ["[+20]% Strength <when defending>", "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", "[+3] Sight", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable", "[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "Destroys tile improvements when attacking", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles", "[+200]% Strength <with [20]% chance> <when attacking>", "Can see invisible [Land] units"]
+  "uniques": ["[+20]% Strength <when defending>", "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", "[+3] Sight", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable", "[-20]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles", "[+200]% Strength <with [20]% chance> <when attacking>", "Can see invisible [Land] units"]
  },
 {
   "name": "Bobo",
