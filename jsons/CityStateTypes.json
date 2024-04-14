@@ -78,8 +78,8 @@
         {  
           "name": "Roving",  
           "friendBonusUniques": [   
-              "[-20]% Unhappiness from [Population] [in all non-occupied cities] <when not at war>", "[+10]% [Culture] [non-[Garrisoned]] <when not at war>"],  
-          "allyBonusUniques": ["[-40]% Unhappiness from [Population] [in all non-occupied cities] <when not at war>", "[+1 Happiness] from [Improvement] tiles [in all non-occupied cities] <when not at war>", "[+10]% [Culture] [non-[Garrisoned]] <when not at war>"],  
+              "[+25]% XP gained from combat <for [Mounted] units>", "[+1] Movement <for [Armor] units>", "[+50]% XP gained from combat <for [Armor] units>", "[+1 Happiness] from [{Trading Post} {Road}] tiles [in all cities]", "[+1 Production] from [{Road} {Desert}] tiles [in all cities]"],  
+          "allyBonusUniques": ["[+2] free [Rough Rider] units appear <upon entering a Golden Age>", "[+50]% XP gained from combat <for [Mounted] units>", "[+1] Sight <for [Mounted] units", "[+1] Movement <for [Armor] units>", "[+1] Sight <for [Armor] units", "[+100]% XP gained from combat <for [Armor] units>", "Damage is ignored when determining unit Strength <for [Armor] units>", "[+1 Culture] from [Road] tiles [in all cities] <when at war>", "[+2 Happiness] from [{Road}{Trading Post}] tiles [in all cities]", "[+1 Production] from [{Road} {Desert}] tiles [in all cities]"],  
           "color": [210, 175, 25]
       }
 ]
