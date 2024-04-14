@@ -50,7 +50,11 @@
   "requiredTech": "Bronze Working",
   "attackSound": "Woo",
   "promotions": ["Drill I", "Overjoyed"],
-  "uniques": ["Invisible to non-adjacent units", "May capture killed [Land] units <with [40]% chance>", "May withdraw before melee ([40]%)", "No movement cost to pillage", "Ignores Zone of Control"]
+  "uniques": ["Invisible to non-adjacent units", "May capture killed [Land] units <with [33]% chance>", "May withdraw before melee ([33]%)", "No movement cost to pillage", "Ignores Zone of Control",
+  "[+33]% Strength <starting from the [Medieval era]>", 
+  "[+33]% Strength <starting from the [Renaissance era]>",
+  "[+33]% Strength <starting from the [Industrial era]>", 
+  "[+33]% Strength <starting from the [Modern era]>"]
  },
    {
   "name": "Joy Division",
@@ -63,7 +67,10 @@
   "requiredTech": "Iron Working",
   "attackSound": "wallys",
   "promotions": ["Barrage I", "Overjoyed"],
-  "uniques": ["May withdraw before melee ([40]%)", "No movement cost to pillage", "Ignores Zone of Control"]
+  "uniques": ["May withdraw before melee ([33]%)", "No movement cost to pillage", "Ignores Zone of Control", "[+33]% Strength <starting from the [Medieval era]>", 
+  "[+33]% Strength <starting from the [Renaissance era]>",
+  "[+33]% Strength <starting from the [Industrial era]>", 
+  "[+33]% Strength <starting from the [Modern era]>"]
  },
 {
   "name": "Peter",
