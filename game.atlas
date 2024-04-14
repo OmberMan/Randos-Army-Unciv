@@ -30,14 +30,14 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-LeaderIcons/Mithridates IV
+LeaderIcons/Mithridates VI
   rotate: false
   xy: 1012, 1134
   size: 878, 878
   orig: 878, 878
   offset: 0, 0
   index: -1
-LeaderIcons/Mithridates VI
+LeaderIcons/Mithridates IV
   rotate: false
   xy: 1012, 296
   size: 830, 830
@@ -693,7 +693,7 @@ TileSets/FantasyHex/Units/Sabum Kibittum
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Sofa
+TileSets/FantasyHex/Units/Oromo
   rotate: false
   xy: 858, 498
   size: 32, 28
