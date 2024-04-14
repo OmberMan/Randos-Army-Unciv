@@ -12,7 +12,7 @@
   },
  {
   "name": "Rando Rig",
-  "unitType": "Armored",
+  "unitType": "Armor",
   "uniqueTo": "Rando's Army",
   "replaces": "Landship",
   "movement": 5,
@@ -24,6 +24,21 @@
   "attackSound": "shot",
   "promotions": ["Shock I", "Medic"],
   "uniques": ["No defensive terrain bonus", "Transfer Movement to [Civilian]", "[-33]% Strength <vs [Armor] units>", "Can move after attacking"]
+ },
+  {
+  "name": "Rough Rider",
+  "unitType": "Armor",
+  "uniqueTo": "Rando's Army",
+  "replaces": "Landship",
+  "movement": 5,
+  "strength": 16,
+  "cost": 210,
+  "requiredTech": "Iron Working",
+  "requiredResource": "Iron",
+  "upgradesTo": "Modern Armor",
+  "attackSound": "shot",
+  "promotions": ["Shock I", "Shock II"],
+  "uniques": ["No defensive terrain bonus", "Ignores Zone of Control", "[-33]% Strength <vs [Armor] units>", "[+150]% maintenance costs", "Can move after attacking", "Rough terrain penalty", [+33]% Strength <when attacking> <when fighting in [Open terrain] tiles>", "Self-destructs when attacking <when below [16] HP>", "[+150]% Strength <when attacking> <when below [16] HP>"]
  },
  {
   "name": "Joy Boy",
