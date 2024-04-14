@@ -92,7 +92,7 @@ LeaderIcons/Epaminondas
   orig: 585, 585
   offset: 0, 0
   index: -1
-LeaderIcons/Flilippo Tommato Marinetti
+LeaderIcons/Filippo Tommato Marinetti
   rotate: false
   xy: 4, 448
   size: 758, 758
@@ -266,7 +266,7 @@ LeaderIcons/Mausoleus
   orig: 412, 412
   offset: 0, 0
   index: -1
-LeaderIcons/Midas
+LeaderIcons/Midas III
   rotate: false
   xy: 4, 532
   size: 458, 458
@@ -329,7 +329,7 @@ LeaderIcons/Tetua
   orig: 340, 340
   offset: 0, 0
   index: -1
-LeaderIcons/The Bloodiest Wolf
+LeaderIcons/Bloodiest Wolf
   rotate: false
   xy: 1568, 1103
   size: 246, 246
@@ -476,7 +476,7 @@ TileSets/FantasyHex/Units/Brave Companions
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Brotherless Bannerhood Bowman
+TileSets/FantasyHex/Units/Bannerless Brotherhood Bowman
   rotate: false
   xy: 952, 1228
   size: 32, 32
@@ -539,7 +539,7 @@ TileSets/FantasyHex/Units/Dragonrider
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Druhizna
+TileSets/FantasyHex/Units/Druzhina
   rotate: false
   xy: 462, 5
   size: 32, 28
@@ -574,7 +574,7 @@ TileSets/FantasyHex/Units/Guru
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Gyroblimp
+TileSets/FantasyHex/Units/Airship
   rotate: false
   xy: 992, 1228
   size: 32, 32
