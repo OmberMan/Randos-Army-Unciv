@@ -75,4 +75,11 @@
           "allyBonusUniques": ["[-40]% Unhappiness from [Population] [in all non-occupied cities] <when not at war>", "[+1 Happiness] from [Improvement] tiles [in all non-occupied cities] <when not at war>", "[+10]% [Culture] [non-[Garrisoned]] <when not at war>"],  
           "color": [90, 20, 250]
       }
+        {  
+          "name": "Roving",  
+          "friendBonusUniques": [   
+              "[-20]% Unhappiness from [Population] [in all non-occupied cities] <when not at war>", "[+10]% [Culture] [non-[Garrisoned]] <when not at war>"],  
+          "allyBonusUniques": ["[-40]% Unhappiness from [Population] [in all non-occupied cities] <when not at war>", "[+1 Happiness] from [Improvement] tiles [in all non-occupied cities] <when not at war>", "[+10]% [Culture] [non-[Garrisoned]] <when not at war>"],  
+          "color": [210, 175, 25]
+      }
 ]
