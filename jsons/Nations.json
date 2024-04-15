@@ -79,7 +79,7 @@
 		"adjective": ["Joy"],
 		        "leaderName": "Neil Down",
 		"cityStateType": "Joyful",
-  "uniques": ["Gain a free [Joy Lab] [in all cities]", "Free [Joy Boy] appears <every [4] turns>", "Free [Joy Division] appears <every [12] turns>", "[-75]% growth [in all cities]", "Nullifies [Unhappiness] [in all cities]"],
+  "uniques": ["Gain a free [Joy Lab] [in all cities]", "Free [Joy Boy] appears <every [4] turns>", "Free [Joy Division] appears <every [12] turns>", "[-75]% growth [in all cities]", "[-100]% Unhappiness from [Population] [in all cities]"],
   "style": "Barbarians",
 		"declaringWar": "...I got the Joy, Joy, Joy, Joy down in my heart, down in my heart. Down in my heart... I got the Joy, Joy, Joy, Joy, dooown innnn my heart! Down in my heaart tooodaay! Joy... Down in my heart...",
 		"attacked": "...That was really dumb.",
