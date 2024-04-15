@@ -1,1 +1,54 @@
-
+[
+    {
+    "name": "Connect Resource",
+    "description": "In order to make our civilizations stronger, connect [tileResource] to your trade network.",
+      "weightForCityStateType": {
+          "Maritime": 2,
+          "Mercantile": 3,
+          "Despondent": 14
+      }
+  },
+    {
+    "name": "Contest Faith",
+    "description": "The civilization with the largest Faith growth will gain a reward.",
+    "type": "Global",
+    "duration": 30,
+    "minimumCivs": 3,
+      "weightForCityStateType": {
+          "Cultured": 0.5,
+          "Maritime": 0.5,
+          "Mercantile": 0.5,
+          "Militaristic": 0.5,
+          "Religious": 2,
+          "Despondent": 3
+      }
+  },
+    {
+    "name": "Pledge to Protect",
+    "description": "We need your protection to stop the aggressions of [civName]. By signing a Pledge of Protection, you'll confirm the bond that ties us.",
+    "influence": 20,
+    "duration": 30,
+      "weightForCityStateType": {
+          "Cultured": 3.5,
+          "Maritime": 3,
+          "Mercantile": 3,
+          "Militaristic": 2,
+          "Religious": 3,
+          "Despondent": 5
+      }
+  },
+    {
+    "name": "Give Gold",
+    "description": "We are suffering great poverty after being robbed by [civName], and unless we receive a sum of Gold, it's only a matter of time before we collapse.",
+    "influence": 20,
+    "duration": 30,
+      "weightForCityStateType": {
+          "Cultured": 3,
+          "Maritime": 3,
+          "Mercantile": 3.5,
+          "Militaristic": 2,
+          "Religious": 3,
+          "Despondent": 1.5
+      }
+  },
+]
