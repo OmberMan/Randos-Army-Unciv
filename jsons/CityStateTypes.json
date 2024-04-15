@@ -32,7 +32,7 @@
           "friendBonusUniques": [  
               "[-4 Food] per [16] population [in all cities]",  
               "Resting point for Influence with City-States is increased by [-8]",
-              "[+40]% Unhappiness from [Population] [in all cities] <when at peace>",
+              "[+40]% Unhappiness from [Population] [in all cities] <when not at war>",
               "[+8 Happiness] <when at war>",
        "[+104]% Production when constructing [Sword] units [in all cities] <when at war>", "[+104]% Production when constructing [Gunpowder] units [in all cities] <when at war>",
               "[-64]% Food is carried over after population increases [in all cities]",  "Provides [8] [Knockoff Kung Brand Sportswear]",
@@ -43,7 +43,7 @@
                   "Rebel units may spawn <in [Friendly land] tiles>",
               "Resting point for Influence with City-States is increased by [-16]",
                "[+168]% Production when constructing [Sword] units [in all cities] <when at war>", "[+168]% Production when constructing [Gunpowder] units [in all cities] <when at war>"
-              "[+64]% Unhappiness from [Population] [in all cities] <when at peace>",
+              "[+64]% Unhappiness from [Population] [in all cities] <when not at war>",
               "[+16 Happiness] <when at war>", "Provides [24] [Knockoff Kung Brand Sportswear]",
               "[-104]% Food is carried over after population increases [in all cities]", "[Scout] units gain the [Enfranchised] promotion", "[Gunpowder] units gain the [Enfranchised] promotion", "[Sword] units gain the [Enfranchised] promotion"],  
           "color": [232, 24, 0]  
@@ -79,7 +79,7 @@
           "name": "Roving",  
           "friendBonusUniques": [   
               "[+25]% XP gained from combat <for [Mounted] units>", "[+1] Movement <for [Armor] units>", "[+50]% XP gained from combat <for [Armor] units>", "[+1 Happiness] from [{Trading Post} {Road}] tiles [in all cities]", "[+1 Production] from [{Road} {Desert}] tiles [in all cities]"],  
-          "allyBonusUniques": ["[+2] free [Rough Rider] units appear <upon entering a Golden Age>", "[+50]% XP gained from combat <for [Mounted] units>", "[+1] Sight <for [Mounted] units>", "[+1] Movement <for [Armor] units>", "[+1] Sight <for [Armor] units>", "[+100]% XP gained from combat <for [Armor] units>", "Damage is ignored when determining unit Strength <for [Armor] units>", "[+1 Culture] from [Road] tiles [in all cities] <when at war>", "[+2 Happiness] from [{Road}{Trading Post}] tiles [in all cities]", "[+1 Production] from [{Road} {Desert}] tiles [in all cities]"],  
+          "allyBonusUniques": ["[+2] free [Rough Rider] units appear <upon entering a Golden Age>", "[+50]% XP gained from combat <for [Mounted] units>", "[+1] Sight <for [Mounted] units>", "[+1] Movement <for [Armor] units>", "[+1] Sight <for [Armor] units>", "[+100]% XP gained from combat <for [Armor] units>", "Damage is ignored when determining unit Strength <for [Armor] units>", "[+1 Culture] from [Road] tiles [in all cities] <when at war>", "[+2 Happiness] from [{Road} {Trading Post}] tiles [in all cities]", "[+1 Production] from [{Road} {Desert}] tiles [in all cities]"],  
           "color": [210, 175, 25]
       }
 ]
