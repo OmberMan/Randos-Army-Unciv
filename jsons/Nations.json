@@ -118,5 +118,19 @@
                 "innerColor": [210, 175, 25],
                 "cities": ["The Thunderdome", "Sabazian Fields"]
         },
+       {
+                "name": "The Neon Flamingos",
+                "adjective": ["Flamboyant"],
+                        "leaderName": "A mystery. Cum detective hot on the case",
+                "cityStateType": "Beautiful",
+  "uniques": ["[-100]% Strength <when attacking>", "[-90]% Unhappiness from [Population] [in all non-occupied cities] <when not at war>", "[+1 Happiness] from [Improvement] tiles [in all non-occupied cities] <when not at war>", "[+10]% [Culture] [non-[Garrisoned]] <when not at war>", "[+2 Culture] from every specialist [in all cities]"],
+  "style": "East Asian",
+                "declaringWar": "This wasn't the plan!",
+                "attacked": "...friends, why have you brought your swords to our meeting?",
+                "defeated": "...Why?",
+                "outerColor": [0, 0, 0],
+                "innerColor": [90, 20, 250],
+                "cities": ["Pacifist Village", "Happy Happy Village"]
+        },
 ]
 
