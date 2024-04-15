@@ -122,15 +122,15 @@
                 "name": "The Neon Flamingos",
                 "adjective": ["Flamboyant"],
                         "leaderName": "A mystery. Cum detective hot on the case",
-                "cityStateType": "Beautiful",
-  "uniques": ["[-100]% Strength <when attacking>", "[-90]% Unhappiness from [Population] [in all non-occupied cities] <when not at war>", "[+1 Happiness] from [Improvement] tiles [in all non-occupied cities] <when not at war>", "[+10]% [Culture] [non-[Garrisoned]] <when not at war>", "[+2 Culture] from every specialist [in all cities]"],
-  "style": "East Asian",
-                "declaringWar": "This wasn't the plan!",
-                "attacked": "...friends, why have you brought your swords to our meeting?",
-                "defeated": "...Why?",
+                "cityStateType": "Militaristic",
+  "uniques": ["[-25]% Unhappiness from [Population] [in all non-occupied cities] <when at war>", "[+1 Happiness] from [Landmark] tiles [in all non-occupied cities] <when at war>", "[+10]% [Culture]", "[+2 Culture] from every specialist [in all cities]"],
+  "style": "Barbarian",
+                "declaringWar": "Shit the fuck up.",
+                "attacked": "Whoa whoa whoa, let's keep this smooth, ok? Smooth moves, like smooth little babies.",
+                "defeated": "That's how we like it.",
                 "outerColor": [0, 0, 0],
-                "innerColor": [90, 20, 250],
-                "cities": ["Pacifist Village", "Happy Happy Village"]
+                "innerColor": [0, 250, 240],
+                "cities": ["'The City' - Water District", "The cum shaft."]
         },
 ]
 
