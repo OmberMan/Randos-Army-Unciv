@@ -5,8 +5,9 @@
       "weightForCityStateType": {
           "Maritime": 2,
           "Mercantile": 3,
-          "Despondent": 14,
-          "Roving": 3
+          "Despondent": 10,
+          "Roving": 2
+          "Preservationist": 0.5
       }
   },
     {
@@ -21,7 +22,10 @@
           "Mercantile": 0.5,
           "Militaristic": 0.5,
           "Religious": 2,
-          "Despondent": 3
+          "Beautiful": 1.5,
+          "Despondent": 2,
+          "Roving": 0.5
+          "Preservationist": 1.5
       }
   },
     {
@@ -35,8 +39,10 @@
           "Mercantile": 3,
           "Militaristic": 2,
           "Religious": 3,
-          "Despondent": 5
-          "Beautiful": 2
+          "Despondent": 3,
+          "Roving": 0.3,
+          "Beautiful": 2,
+          "Preservationist": 1.5
       }
   },
     {
@@ -50,7 +56,8 @@
           "Mercantile": 3.5,
           "Militaristic": 2,
           "Religious": 3,
-          "Despondent": 1.5
+          "Roving": 3,
+          "Preservationist": 0.2
       }
   },
       {
@@ -65,9 +72,10 @@
           "Mercantile": 3,
           "Militaristic": 9,
           "Religious": 3,
-          "Despondent": 8,
+          "Despondent": 4,
           "Enfranchised": 50,
           "Beautiful": 0.1
+          
       }
   },
       {
@@ -78,8 +86,10 @@
           "Hostile": 2,
           "Friendly": 0.2,
           "Militaristic": 2,
+          "Roving": 0.1,
           "Enfranchised": 20,
-          "Beautiful": 0.1
+          "Beautiful": 0.1,
+          "Preservationist": 0.3
       }
   },
       {
@@ -89,6 +99,7 @@
       "weightForCityStateType": {
           "Maritime": 3,
           "Mercantile": 2,
+          "Despondent": 0.2,
           "Preservationist": 0.1
       }
   },
@@ -97,7 +108,8 @@
     "description": "Great People can change the course of a Civilization! You will be rewarded for acquiring a new [greatPerson].",
       "weightForCityStateType": {
           "Cultured": 3,
-          "Joyful": 4
+          "Beautiful": 2,
+          "Joyful": 3
       }
   },
       {
@@ -109,9 +121,10 @@
         "Hostile": 0.2,
         "Maritime": 1.2,
         "Mercantile": 1.5,
-        "Joyful": 9,
-        "Preservationist": 0.3,
-        "Roving": 4
+        "Despondent": 0.1,
+        "Joyful": 20,
+        "Preservationist": 0.1,
+        "Roving": 7
     }
   },
       {
@@ -119,6 +132,8 @@
     "description": "Send your best explorers on a quest to discover Natural Wonders. Nobody knows the location of [naturalWonder] yet.",
       "weightForCityStateType": {
           "Hostile": 0.3,
+          "Despondent": 1.3,
+          "Preservationist": 2.5,
           "Militaristic": 0.5
       },
             {
@@ -128,16 +143,9 @@
     "duration": 30,
     "minimumCivs": 3,
       "weightForCityStateType": {
-          "Religious": 0.5
-      }
-  },
-      {
-    "name": "Find Player",
-    "description": "You have yet to discover where [civName] set up their cities. You will be rewarded for finding their territories.",
-    "influence": 35,
-      "weightForCityStateType": {
-          "Maritime": 3,
-          "Mercantile": 2
+          "Religious": 0.5,
+          "Preservationist": 0.1,
+          "Despondent": 0.5
       }
   },
 ]
