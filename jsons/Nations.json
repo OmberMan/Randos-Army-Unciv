@@ -132,5 +132,19 @@
                 "innerColor": [0, 250, 240],
                 "cities": ["'The City' - Water District", "The cum shaft."]
         },
+{
+                "name": "The Extreme Prejudice Society",
+                "adjective": ["Voxian"],
+                        "leaderName": "Cyrus",
+                "cityStateType": "Militaristic",
+  "uniques": ["[+3 Production] from every specialist [in all cities]", "[-50]% Unhappiness from [Population] [in all cities]" , " [-3] Happiness from each type of luxury resource"],
+  "style": "Mesopotamian",
+                "declaringWar": "Shit the fuck up.",
+                "attacked": "Whoa whoa whoa, let's keep this smooth, ok? Smooth moves, like smooth little babies.",
+                "defeated": "That's how we like it.",
+                "outerColor": [0, 0, 0],
+                "innerColor": [0, 250, 240],
+                "cities": ["'The City' - Water District", "The cum shaft."]
+        },
 ]
 
