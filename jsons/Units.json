@@ -34,7 +34,6 @@
   "strength": 16,
   "cost": 210,
   "requiredTech": "Iron Working",
-  "requiredResource": "Iron",
   "upgradesTo": "Modern Armor",
   "attackSound": "Vroom",
   "promotions": ["Shock I", "Shock II"],
