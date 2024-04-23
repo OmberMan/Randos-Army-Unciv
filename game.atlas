@@ -686,6 +686,13 @@ TileSets/FantasyHex/Units/Rough Rider
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Wild Rider
+  rotate: false
+  xy: 1989, 773
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Sabum Kibittum
   rotate: false
   xy: 906, 41
