@@ -28,7 +28,7 @@
   {
   "name": "Rough Rider",
   "unitType": "Armor",
-  "uniqueTo": "Barbarians",
+  "uniqueTo": "Gale Motorcycle Club",
   "replaces": "Trebuchet",
   "movement": 5,
   "strength": 16,
@@ -38,6 +38,20 @@
   "attackSound": "Vroom",
   "promotions": ["Shock I", "Shock II"],
   "uniques": ["No defensive terrain bonus", "Ignores Zone of Control", "[-33]% Strength <vs [Armor] units>", "[+100]% maintenance costs", "Can move after attacking", "Rough terrain penalty", "[+50]% Strength <when attacking> <when fighting in [Open terrain] tiles>", "Self-destructs when attacking <when below [16] HP>", "[+150]% Strength <when attacking> <when below [16] HP>"]
+ },
+  {
+  "name": "Wild Rider",
+  "unitType": "Armor",
+  "uniqueTo": "Barbarians",
+  "replaces": "Trebuchet",
+  "movement": 5,
+  "strength": 16,
+  "cost": 210,
+  "requiredTech": "Iron Working",
+  "upgradesTo": "Modern Armor",
+  "attackSound": "Vroom",
+  "promotions": ["Shock I"],
+  "uniques": ["No defensive terrain bonus", "Ignores Zone of Control", "[-33]% Strength <vs [Armor] units>", "Can move after attacking", "Rough terrain penalty", "[+50]% Strength <when attacking> <when fighting in [Open terrain] tiles>", "Self-destructs when attacking <when below [16] HP>", "[+150]% Strength <when attacking> <when below [16] HP>"]
  },
  {
   "name": "Joy Boy",
