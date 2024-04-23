@@ -5,7 +5,7 @@
     "uniqueTo": "Rando's Army",
     "replaces": "Great General",
     "attackSound": "Buster Punches",
-    "uniques": ["[+25]% Strength bonus for [Land] units within [2] tiles", "[-10]% Strength for enemy [Land] units in adjacent [All] tiles", "Damage is ignored when determining unit Strength", "[1] Sight", "[+33]% Strength <after discovering [Chemistry]>", "[+25]% Strength <vs [Melee] units>",
+    "uniques": ["[+25]% Strength bonus for [Land] units within [2] tiles", "[-10]% Strength for enemy [Land] units in adjacent [All] tiles", "Damage is ignored when determining unit Strength", "[1] Sight", "[+33]% Strength <after discovering [Chemistry]>", "[+25]% Strength <vs [Melee] units>", "Can be earned through combat",
       "Unable to capture cities", "Great Person - [War]", "Unbuildable", "Uncapturable", "Limited to [1] per Civilization"],
     "movement": 2,
     "strength": 30,
