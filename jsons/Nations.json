@@ -130,16 +130,16 @@
                 "defeated": "That's how we like it.",
                 "outerColor": [0, 0, 0],
                 "innerColor": [0, 250, 240],
-                "cities": ["'The City' - Water District", "The cum shaft."]
+                "cities": ["The Water District", "The cum shaft."]
         },
 {
                 "name": "The Extreme Prejudice Society",
                 "adjective": ["Voxian"],
                         "leaderName": "Cyrus",
-                "cityStateType": "Militaristic",
+                "cityStateType": "Prejudicial",
   "uniques": ["[+3 Production] from every specialist [in all cities]", "[-50]% Unhappiness from [Population] [in all cities]", "[+50]% Strength <when defending> <when adjacent to a [{Friendly} {Melee}] unit>", "[-3] Happiness from each type of luxury resource"],
   "style": "Mesopotamian",
-                "declaringWar": "The mind doesn't negotiate with its cells.",
+                "declaringWar": "Does the mind parley with cells?",
                 "attacked": "Degenerates like you belong in the gutter.",
                 "defeated": "The Leviathan groans and shrieks again.",
                 "outerColor": [0, 0, 0],
