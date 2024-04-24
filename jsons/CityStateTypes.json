@@ -85,8 +85,8 @@
 {  
           "name": "Prejudicial",  
           "friendBonusUniques": [   
-              "[+25]% XP gained from combat <for [Mounted] units>", "[+1] Movement <for [Armor] units>", "[+50]% XP gained from combat <for [Armor] units>", "[+1 Happiness] from [{Trading Post} {Road}] tiles [in all cities]", "[+1 Production] from [{Road} {Desert}] tiles [in all cities]"],  
-          "allyBonusUniques": ["[+2] free [Rough Rider] units appear <upon entering a Golden Age>", "[+50]% XP gained from combat <for [Mounted] units>", "[+1] Sight <for [Mounted] units>", "[+1] Movement <for [Armor] units>", "[+1] Sight <for [Armor] units>", "[+100]% XP gained from combat <for [Armor] units>", "Damage is ignored when determining unit Strength <for [Armor] units>", "[+1 Culture] from [Road] tiles [in all cities] <when at war>", "[+2 Happiness] from [{Road} {Trading Post}] tiles [in all cities]", "[+1 Production] from [{Road} {Desert}] tiles [in all cities]"],  
-          "color": [210, 175, 25]
+              "[+1 Production] from every specialist [in all cities]", "[-25]% Unhappiness from [Population] [in all cities]"],  
+          "allyBonusUniques": ["[+2 Production] from every specialist [in all cities]", "[-50]% Unhappiness from [Population] [in all cities]", "[+50]% Strength <when defending> <when adjacent to a [{Friendly} {Melee}] unit>", "[-1] Happiness from each type of luxury resource"],  
+          "color": [210, 60, 30]
       }
 ]
