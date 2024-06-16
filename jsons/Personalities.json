@@ -9,7 +9,14 @@
                 "science": 2,
                 "faith": 1,
                 "military": 10,
-                "warMongering": 9,
+                //"warMongering": 9,
+      "aggressive": 8,
+      "declareWar": 9,
+      "commerce": 3,
+      "diplomacy": 7,
+      "loyal": 9,
+      "expansion": 10,
+
 "priorities": {
     "Autocracy": 30,
     "Order": 20,
