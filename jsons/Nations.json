@@ -30,7 +30,7 @@
 		"name": "Garbage Island",
 		"adjective": ["Trash"],
 		"cityStateType": "Despondent",
-  "uniques": [/" "[+1 Production] <in cities with at least [1] [Unemployed]>", 
+  "uniques": [/*"[+1 Production] <in cities with at least [1] [Unemployed]>", 
 "[+1 Production, +1 Faith] <in cities with at least [2] [Unemployed]>",
 "[+1 Production, +1 Faith] <in cities with at least [3] [Unemployed]>",
 "[+1 Production, +1 Faith, +1 Culture] <in cities with at least [4] [unemployed]>",
