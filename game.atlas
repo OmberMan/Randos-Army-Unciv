@@ -679,6 +679,20 @@ TileSets/FantasyHex/Units/Rando Rig
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Rando Rig
+  rotate: false
+  xy: 1112, 1228
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rando Rig 2
+  rotate: false
+  xy: 1112, 1228
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Rough Rider
   rotate: false
   xy: 1989, 773
@@ -749,7 +763,7 @@ TileSets/HexaRealm/Units/No one in particular
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Rando Rig
+TileSets/HexaRealm/Units/Rando Rig 2
   rotate: false
   xy: 1862, 1718
   size: 148, 148
@@ -848,6 +862,13 @@ UnitIcons/Rando
   offset: 0, 0
   index: -1
 UnitIcons/Rando Rig
+  rotate: false
+  xy: 1881, 713
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rando Rig 2
   rotate: false
   xy: 1881, 713
   size: 100, 100
