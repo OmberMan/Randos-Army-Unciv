@@ -90,7 +90,7 @@
   "unitType": "Mounted",
   "movement": 2,
   "strength": 24,
-  "cost": 560,
+  "cost": 460,
   "uniqueTo": "Barbarians",
   "requiredTech": "Mathematics",
   "attackSound": "Screm",
@@ -102,7 +102,7 @@
   "uniqueTo": "Barbarians",
   "movement": 1,
   "strength": 22,
-  "cost": 550,
+  "cost": 450,
   "requiredTech": "Mathematics",
   "attackSound": "Screm",
   "uniques": ["[-20]% Strength <when defending>", "[+30]% Strength <when [Wounded]>", "[+2] additional attacks per turn <when [Wounded]>", "[+2] Movement <when [Wounded]>", "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", "No Sight", "Heal this unit by [10] HP <upon losing at least [20] HP in a single attack>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable", "[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "[+50]% Strength <with [40]% chance>", "[-50]% Strength <with [40]% chance>", "Cannot enter ocean tiles"]
@@ -113,7 +113,7 @@
   "uniqueTo": "Barbarians",
   "movement": 1,
   "strength": 27,
-  "cost": 580,
+  "cost": 480,
   "requiredTech": "Mathematics",
   "attackSound": "notfair",
   "uniques": ["[+15]% Strength <when defending>", "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", "[+3] Sight", "Heal this unit by [10] HP <upon losing at least [20] HP in a single attack>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable", "[-20]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles", "[+200]% Strength <with [10]% chance> <when attacking>", "Can see invisible [Land] units"]
@@ -124,7 +124,7 @@
   "uniqueTo": "Barbarians",
   "movement": 1,
   "strength": 24,
-  "cost": 540,
+  "cost": 340,
   "requiredTech": "Mathematics",
   "attackSound": "Screm",
   "uniques": ["Unit will heal every turn, even if it performs an action", "[+1] additional attacks per turn", "[+15] HP when healing", "No Sight", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "Heal this unit by [5] HP <upon defeating a [Land] unit>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable", "[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "Destroys tile improvements when attacking", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles"]
