@@ -7,8 +7,9 @@
     "attackSound": "Buster Punches",
     "uniques": ["[+25]% Strength bonus for [Land] units within [2] tiles", "[-10]% Strength for enemy [Land] units in adjacent [All] tiles", "Damage is ignored when determining unit Strength", "[1] Sight", "[+33]% Strength <after discovering [Chemistry]>", "[+25]% Strength <vs [Melee] units>", "Can be earned through combat",
       "Unable to capture cities", "Great Person - [War]", "Unbuildable", "Uncapturable", "Limited to [1] per Civilization"],
+    "promotions": ["Scorching"],
     "movement": 2,
-    "strength": 30,
+    "strength": 26,
   },
  {
   "name": "Rando Rig",
@@ -22,7 +23,7 @@
   "requiredResource": "Oil",
   "upgradesTo": "Modern Armor",
   "attackSound": "Vroom",
-  "promotions": ["Shock I", "Medic"],
+  "promotions": ["Shock I", "Medic", "Shock and Awe"],
   "uniques": ["No defensive terrain bonus", "Transfer Movement to [Civilian]", "[-33]% Strength <vs [Armor] units>", "Can move after attacking"]
  },
   {
@@ -139,7 +140,7 @@
   "requiredTech": "Calendar",
   "attackSound": "sameoldmeat",
   "promotions": ["Jerseyhead"],
-  "uniques": ["[+16]% Strength <when attacking>", "[-16]% Strength <when defending> <vs [Ranged] units>", "This Unit gains the [1st Fold] promotion <upon defeating a [Military] unit>"
+  "uniques": ["[+16]% Strength <when attacking>", "[-16]% Strength <when defending> <vs [Ranged] units>", "This Unit gains the [1st Fold] promotion <upon defeating a [Military] unit>",
   "[+24]% Strength <starting from the [Classical era]>", 
   "[+40]% Strength <starting from the [Medieval era]>", 
   "[+40]% Strength <starting from the [Renaissance era]>",
