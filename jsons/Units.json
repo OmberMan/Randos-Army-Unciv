@@ -37,7 +37,7 @@
   "requiredTech": "Iron Working",
   "upgradesTo": "Modern Armor",
   "attackSound": "Vroom",
-  "promotions": ["Shock I", "Shock II"],
+  "promotions": ["Shock I", "Shock II", "Shock and Awe"],
   "uniques": ["No defensive terrain bonus", "Ignores Zone of Control", "[-33]% Strength <vs [Armor] units>", "[+100]% maintenance costs", "Can move after attacking", "Rough terrain penalty", "[+50]% Strength <when attacking> <when fighting in [Open terrain] tiles>", "Self-destructs when attacking <when below [16] HP>", "[+150]% Strength <when attacking> <when below [16] HP>"]
  },
   {
@@ -47,11 +47,11 @@
   "replaces": "Trebuchet",
   "movement": 5,
   "strength": 16,
-  "cost": 210,
+  "cost": 180,
   "requiredTech": "Iron Working",
   "upgradesTo": "Modern Armor",
   "attackSound": "Vroom",
-  "promotions": ["Shock I"],
+  "promotions": ["Shock I", "Shock and Awe II"],
   "uniques": ["No defensive terrain bonus", "Ignores Zone of Control", "[-33]% Strength <vs [Armor] units>", "Can move after attacking", "Rough terrain penalty", "[+50]% Strength <when attacking> <when fighting in [Open terrain] tiles>", "Self-destructs when attacking <when below [16] HP>", "[+150]% Strength <when attacking> <when below [16] HP>"]
  },
  {
@@ -60,7 +60,7 @@
 "uniqueTo": "Barbarians",
   "movement": 3,
   "strength": 10,
-  "cost": 80,
+  "cost": 70,
   "requiredTech": "Bronze Working",
   "attackSound": "Woo",
   "promotions": ["Drill I", "Overjoyed"],
@@ -77,7 +77,7 @@
   "movement": 2,
   "strength": 8,
   "rangedStrength": 12,
-  "cost": 120,
+  "cost": 100,
   "requiredTech": "Iron Working",
   "attackSound": "wallys",
   "promotions": ["Barrage I", "Overjoyed"],
@@ -91,11 +91,11 @@
   "unitType": "Mounted",
   "movement": 2,
   "strength": 24,
-  "cost": 460,
+  "cost": 360,
   "uniqueTo": "Barbarians",
   "requiredTech": "Mathematics",
   "attackSound": "Screm",
-  "uniques": ["[+20]% Strength <with [40]% chance> <when attacking>", "[+1] additional attacks per turn", "May withdraw before melee ([40]%)", "Ignores terrain cost", "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", "No Sight", "Heal this unit by [10] HP <upon losing at least [20] HP in a single attack>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable",  "[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles", "[+1] Movement <in [Hill] tiles>"]
+  "uniques": ["[+20]% Strength <with [40]% chance> <when attacking>", "[-33]% Strength <vs [Scorching] units>", "[+1] additional attacks per turn", "May withdraw before melee ([40]%)", "Ignores terrain cost", "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", "No Sight", "Heal this unit by [10] HP <upon losing at least [20] HP in a single attack>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable",  "[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles", "[+1] Movement <in [Hill] tiles>"]
  },
 {
   "name": "Cooper",
@@ -103,10 +103,10 @@
   "uniqueTo": "Barbarians",
   "movement": 1,
   "strength": 22,
-  "cost": 450,
+  "cost": 350,
   "requiredTech": "Mathematics",
   "attackSound": "Screm",
-  "uniques": ["[-20]% Strength <when defending>", "[+30]% Strength <when [Wounded]>", "[+2] additional attacks per turn <when [Wounded]>", "[+2] Movement <when [Wounded]>", "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", "No Sight", "Heal this unit by [10] HP <upon losing at least [20] HP in a single attack>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable", "[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "[+50]% Strength <with [40]% chance>", "[-50]% Strength <with [40]% chance>", "Cannot enter ocean tiles"]
+  "uniques": ["[-20]% Strength <when defending>", "[-33]% Strength <vs [Scorching] units>", "[+30]% Strength <when [Wounded]>", "[+2] additional attacks per turn <when [Wounded]>", "[+2] Movement <when [Wounded]>", "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", "No Sight", "Heal this unit by [10] HP <upon losing at least [20] HP in a single attack>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable", "[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "[+50]% Strength <with [40]% chance>", "[-50]% Strength <with [40]% chance>", "Cannot enter ocean tiles"]
  },
 {
   "name": "Beady",
@@ -114,10 +114,10 @@
   "uniqueTo": "Barbarians",
   "movement": 1,
   "strength": 27,
-  "cost": 480,
+  "cost": 400,
   "requiredTech": "Mathematics",
   "attackSound": "notfair",
-  "uniques": ["[+15]% Strength <when defending>", "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", "[+3] Sight", "Heal this unit by [10] HP <upon losing at least [20] HP in a single attack>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable", "[-20]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles", "[+200]% Strength <with [10]% chance> <when attacking>", "Can see invisible [Land] units"]
+  "uniques": ["[+15]% Strength <when defending>", "Unit will heal every turn, even if it performs an action", "[+10] HP when healing", "[-33]% Strength <vs [Scorching] units>", "[+3] Sight", "Heal this unit by [10] HP <upon losing at least [20] HP in a single attack>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable", "[-20]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles", "[+200]% Strength <with [10]% chance> <when attacking>", "Can see invisible [Land] units"]
  },
 {
   "name": "Bobo",
@@ -128,7 +128,7 @@
   "cost": 340,
   "requiredTech": "Mathematics",
   "attackSound": "Screm",
-  "uniques": ["Unit will heal every turn, even if it performs an action", "[+1] additional attacks per turn", "[+15] HP when healing", "No Sight", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "Heal this unit by [5] HP <upon defeating a [Land] unit>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable", "[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "Destroys tile improvements when attacking", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles"]
+  "uniques": ["Unit will heal every turn, even if it performs an action", "[+1] additional attacks per turn", "[+15] HP when healing", "No Sight","[-33]% Strength <vs [Scorching] units>", "Heal this unit by [15] HP <upon losing at least [20] HP in a single attack>", "Heal this unit by [5] HP <upon defeating a [Land] unit>", "[-100]% XP gained from combat", "Damage is ignored when determining unit Strength", "No defensive terrain bonus", "Ignores Zone of Control", "Uncapturable", "[-15]% Strength for enemy [Military] units in adjacent [Land] tiles", "Can only attack [Land] units", "Unable to capture cities", "Destroys tile improvements when attacking", "[+40]% Strength <with [40]% chance>", "[-40]% Strength <with [40]% chance>", "Cannot enter ocean tiles"]
 },
 {
   "name": "Jerseyhead",
@@ -155,10 +155,10 @@
   "range": 1,
   "rangedStrength": 17,
   "strength": 11,
-  "cost": 168,
+  "cost": 147,
   "requiredTech": "Engineering",
   "attackSound": "meats",
-  "promotions": ["Jerseyhead","1st Fold", "2nd Fold", "3rd Fold"],
+  "promotions": ["Jerseyhead","1st Fold", "2nd Fold", "3rd Fold", "Poisoned Tips"],
   "uniques": ["[-16]% Strength <when defending> <vs [Ranged] units>", "[+1] Movement <when above [40] HP>", "Self-destructs when attacking <when below [24] HP>", "[+16]% Strength <when defending> <vs [Melee] units> <when below [41] HP>", "[+10]% Strength bonus for [Jerseyhead] units within [3] tiles",  "Must set up to ranged attack <when above [40] HP>", "Rough terrain penalty",
   "[+24]% Strength <starting from the [Classical era]>", 
   "[+40]% Strength <starting from the [Medieval era]>", 
