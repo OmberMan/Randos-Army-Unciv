@@ -36,7 +36,7 @@
 "[+1 Production, +1 Faith, +1 Culture] <in cities with at least [4] [unemployed]>",
 "[+1 Production, +1 Faith] <in cities with at least [5] [Unemployed]>",
 "[+1 Production, +2 Faith, +1 Culture] <in cities with at least [6] [Unemployed]>",*/ "[-1 Production, +1 Food, -1 Gold] from every [Production]",
- "[+100]% Food is carried over after population increases [in all non-occupied cities]", "[-66]% [Science] [in all non-occupied cities]", "[-66]% Yield from every [Building]", "Nullifies [Happiness] [in all non-occupied cities]", "[-100]% maintenance cost for buildings [in all non-occupied cities]", "[-100]% Great Person generation [in all non-occupied cities]", "[+1 Production, +1 Gold] from all [Building] buildings", "[-50]% Production when constructing [Military] units [cityFilter]", " All newly-trained [All] units [in capital] receive the [Garbage Insanity] promotion"],
+ "[+100]% Food is carried over after population increases [in all non-occupied cities]", "[-66]% [Science] [in all non-occupied cities]", "[-66]% Yield from every [Building]", "Nullifies [Happiness] [in all non-occupied cities]", "[-100]% maintenance cost for buildings [in all non-occupied cities]", "[-100]% Great Person generation [in all non-occupied cities]", "[+1 Production, +1 Gold] from all [Building] buildings", "[-50]% Production when constructing [Military] units [in capital]", " All newly-trained [All] units [in capital] receive the [Garbage Insanity] promotion"],
   "style": "Barbarians",
 		"declaringWar": "Do you Trash?",
 		        "leaderName": "Body Bag Mystic",
