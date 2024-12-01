@@ -21,7 +21,7 @@
         },
         {
         "name": "Infinitized!",
-        "uniques": ["[This Unit] takes [16] damage <upon ending a turn in a [Land] tile> <with [88]% chance>", "[-44]% Strength <when attacking> <with [44%] chance", "[+44]% Strength <when attacking> <with [44%] chance", "[-44]% Strength <when defending> <with [88%] chance"]
+        "uniques": ["[This Unit] takes [16] damage <upon ending a turn in a [Land] tile> <with [88]% chance>", "[-44]% Strength <when attacking> <with [44%] chance", "[+44]% Strength <when attacking> <with [44%] chance", "[-44]% Strength <when defending> <with [88%] chance>", "[This Unit] gains [-8] XP <upon ending a turn in a [Land] tile> <with [88]% chance>"]
 },
 	{
         "name": "Fire on Deck!",
@@ -45,7 +45,7 @@
 		},
 {
 		"name": "Garbage Insanity",
-		"uniques": ["No movement cost to pillage", "[-50]% XP gained from combat", "[-100]% maintenance costs", "[-40%] Strength", "No defensive terrain penalty", "Defense bonus when embarked", "May withdraw before melee ([30]%)", 
+		"uniques": ["No movement cost to pillage", "[-50]% XP gained from combat", "[-100]% maintenance costs", "[-30%] Strength", "No defensive terrain penalty", "Defense bonus when embarked", "[-5]% Strength for enemy [Land] units in adjacent [Land] tiles", "May withdraw before melee ([30]%)", 
 "Unit will heal every turn, even if it performs an action", "Invisible to non-adjacent units"],
 "civilopediaText": [
     { "text": "'A wise man, recognizing that the world is but an illusion, does not act as if it is real, so he escapes the suffering.'" },
