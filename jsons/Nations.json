@@ -30,12 +30,15 @@
 		"name": "Garbage Island",
 		"adjective": ["Trash"],
 		"cityStateType": "Despondent",
-  "uniques": [/*"[+1 Production] <in cities with at least [1] [Unemployed]>", 
+  "uniques": [
+/*"[+1 Production] <in cities with at least [1] [Unemployed]>", 
 "[+1 Production, +1 Faith] <in cities with at least [2] [Unemployed]>",
 "[+1 Production, +1 Faith] <in cities with at least [3] [Unemployed]>",
 "[+1 Production, +1 Faith, +1 Culture] <in cities with at least [4] [unemployed]>",
 "[+1 Production, +1 Faith] <in cities with at least [5] [Unemployed]>",
-"[+1 Production, +2 Faith, +1 Culture] <in cities with at least [6] [Unemployed]>",*/ "[-1 Production, +1 Food, -1 Gold] from every [Production]",
+"[+1 Production, +2 Faith, +1 Culture] <in cities with at least [6] [Unemployed]>",*/ 
+
+"[-1 Production, +1 Food, -1 Gold] from every [Production]",
  "[+100]% Food is carried over after population increases [in all non-occupied cities]", "[-66]% [Science] [in all non-occupied cities]", "[-66]% Yield from every [Building]", "Nullifies [Happiness] [in all non-occupied cities]", "[-100]% maintenance cost for buildings [in all non-occupied cities]", "[-100]% Great Person generation [in all non-occupied cities]", "[+1 Production, +1 Gold] from all [Building] buildings", "[-50]% Production when constructing [Military] units [in capital]", " All newly-trained [All] units [in capital] receive the [Garbage Insanity] promotion"],
   "style": "Barbarians",
 		"declaringWar": "Do you Trash?",
@@ -52,7 +55,7 @@
 		"cityStateType": "Preservationist",
   "uniques": ["[+1 Production, +1 Culture, +1 Happiness, +1 Faith] from [Forest] tiles without [Improvement] [in all cities]", "Damage is ignored when determining unit Strength <in [Friendly Land] tiles>", "New [Scout] units start with [50] Experience [in all cities]", "Free [Scout] appears <upon constructing [Building]>", "All newly-trained [Melee] units [in all cities] receive the [Hinmatóowyalahtq̓it's Scout] promotion"],
   "style": "North American",
-		"declaringWar": "I never truly guarded this place. This is damnation for my gluttony and sloth, drenched in the blood of those I had failed. I will not fail again. I cannot handle it again.",
+		"declaringWar": "I never truly guarded this place. This is hell for my gluttony and sloth, drenched in the blood of the people failed. I will not fail again. I can't handle it again.",
 		        "leaderName": "Bloodiest Wolf",
 		"attacked": "The painted sky should tell you everything... \nShe does not belong to you. \nThis is the last bloodmoon tree. \nAnd I shall not let you take her.",
 		"defeated": "uwu fumck boom",
